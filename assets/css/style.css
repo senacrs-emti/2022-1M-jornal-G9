@@ -5,3 +5,28 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header{
+    background-color: #9B6AE6;
+    color: white;
+    padding-top: 15px;
+}
+
+h1{
+    margin-left: 10px;
+}
+
+.nav{
+    background-color: #7D31B0;
+}
+
+.nav-link{
+    color: white;
+}
+
+input{
+    width: 300px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 8px;
+    margin-left: 700px;
+}
