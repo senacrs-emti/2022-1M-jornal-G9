@@ -12,10 +12,18 @@
   </head>
   <body>
     <main>
-    <div class="col-lg-12-">
-        <h1>DESTAQUES</h1>
-      </div>
-      
+    <div class="col-lg-12">
+      <h1>DESTAQUES</h1>
+        <div class="col-lg-11.5 p-2">
+          <div class="p-5 mb-2 border border-dark text-dark" style="height: 150px;"></div>
+        </div>    
+    </div>
+    <div class="col-lg-12 col-12 border border-dark row m-4">
+        <div class="row m-1">
+            <div class="col-lg-5 p-4">
+                <p>Lorem ipsum dolor sit amet consectetur dipisicing elit. Blanditiis necessitatibus explicabo atque quod molestias voluptatibus praesentium distinctio corrupti iure perspiciatis, fugit deleniti tempora veniam at quos magni obcaecati numquam labore?</p>
+            </div>
+    </div>
 
     </main>
 

@@ -4,4 +4,14 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+main{
+    width: 70%;
+    height: 75%;
+    background-color: rgb(155, 122, 62);
+}
+div{
+    color: rgb(65, 65, 65);
+}
+h1{
+    margin: 25px;
+}
