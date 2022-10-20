@@ -30,6 +30,7 @@ input{
     margin-top: 8px;
     margin-left: 700px;
 }
+<<<<<<< HEAD
 main{
     width: 70%;
     height:auto;
@@ -65,4 +66,26 @@ aside{
     padding-left: 10px;
     padding-top: 4px; 
     padding-bottom: 4px;  
+=======
+
+footer{
+    background-color: #9B6AE6;
+    color: #fff;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer a{
+    color: #fff;
+}
+
+footer img{
+    height: 100px;
+    width: 170px;
+}
+footer div{
+    margin-left: 20px;
+>>>>>>> 8e8cb3e727fa05f5cdba97c3feff2d10905d2670
 }
