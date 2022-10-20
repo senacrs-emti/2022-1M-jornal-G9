@@ -30,3 +30,24 @@ input{
     margin-top: 8px;
     margin-left: 700px;
 }
+
+footer{
+    background-color: #9B6AE6;
+    color: #fff;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer a{
+    color: #fff;
+}
+
+footer img{
+    height: 100px;
+    width: 170px;
+}
+footer div{
+    margin-left: 20px;
+}
