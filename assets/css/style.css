@@ -30,3 +30,39 @@ input{
     margin-top: 8px;
     margin-left: 700px;
 }
+
+/*INICIO CSS PAG ARTIGOS*/
+#divbanner{
+    background-color: orange;
+    height: 150px;
+    width: 100%;
+    margin-top: 40px;
+}
+#sectionartigos{
+    width: 90%;
+    height: auto;
+    position: relative;
+    left:5%;
+    margin-top: 40px;
+}
+
+#h1tituloartigo{
+    text-align: center;
+    font-size: 9vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#h5subtitulo{
+    padding-top: 10px;
+    text-align: center;
+}
+#NomeData{
+    padding-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    opacity: 80%;
+}
+
+
+
+/*FIM CSS PAG ARTIGOS*/

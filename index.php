@@ -3,6 +3,7 @@
 ?>
 
 <main>
+    <a href="artigos.php">artigos</a>
 </main>
 
 <?php
