@@ -1,48 +1,28 @@
-    <footer class="col-12 col-lg-12">
-      
-      <div>
-        <h2>
-          The LGBT Times
-        </h2>
+    <footer class="bg-dark text-center text-white row container-fluid">
+  
+      <div class="container p-4 pb-0 row">
+        <section class="mb-4">
+
+          <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i></a>
+          
+          <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-twitter"></i></a>
+          
+          <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-google"></i></a>
+
+          <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-instagram"></i></a>
+          
+          <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-linkedin-in"></i></a>
+          
+          <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-github"></i></a>
         
-        <ul>
-          <li>
-            <h3> Colaboradores </h3>
-          </li>
-          <li>
-            <a href="">Adriely Rossetti</a>  
-          </li>
-          <li>
-            <a href="">Ellen Vargas</a>
-          </li>
-          <li>
-            <a href="">Giovana Rossi</a>
-          </li>
-          <li>
-            <a href="">Kali Gomes</a>
-          </li>
-        </ul>
+        </section>
+      
+      </div>
+      <div class="text-center p-3 row " style="background-color: rgba(0, 0, 0, 0.2);">
+        <a class="text-white" href="https://mdbootstrap.com/">© 2020 Copyright: MDBootstrap.com</a>
       </div>
 
-      <div>
-        <h2>
-          Redes Sociais SENAC
-        </h2>
-        <ul>
-          <li>
-            <a href="">Instagram</a>
-          </li>
-            <a href="">Twitter</a>
-            <a href="">Linkedin</a>
-        </ul>
-      </div>
-
-      <div class="col-lg-4">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/2560px-Senac_logo.svg.png" alt="logo senac">
-      </div>
-
-    </footer>
-    
+    </footer>  
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -1,8 +1,8 @@
 <?php
     include_once '.\includes\header.php'
 ?>
-
-<main>
+<div class="row">
+<main class= col-lg-8>
 <h3>DESTAQUES</h3>
         <div class="prop">
            <p>PROPAGANDA</p>
@@ -49,11 +49,19 @@
             </div>
           </div>
 </main>
+<<<<<<< HEAD
+<aside class="col-lg-4">
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://pbs.twimg.com/media/ESmC75vWkAANHy5?format=jpg&name=medium" class="d-block w-100">
+=======
   <aside>
     <div id="carrossel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="https://pbs.twimg.com/media/ESmC75vWkAANHy5?format=jpg&name=medium" class="d-block w-100">
+>>>>>>> 258763bf7a4fad124f3c9b0f89cab0cd289f5087
     </div>
       <div class="carousel-item">
         <img src="https://rcsgd.sa.ucsb.edu/images/default-source/sgd/1280px-asexual_pride_flag-svg.png?sfvrsn=71da4a93_0" class="d-block w-100">
@@ -91,6 +99,7 @@
   </button>
 </div>
 </aside>
+</div>
 
 <?php
     include_once '.\includes\footer.php'
