@@ -89,3 +89,8 @@ footer div{
     margin-left: 20px;
 >>>>>>> 8e8cb3e727fa05f5cdba97c3feff2d10905d2670
 }
+main div{
+    width: 100%;
+    height: 50h;
+    background-color: #9B6AE6;
+}
