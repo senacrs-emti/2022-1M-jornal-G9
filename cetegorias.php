@@ -2,10 +2,9 @@
     include_once '.\includes\header.php'
 ?>
 
-<main>
+<article>
     <div>porra</div>
-</main>
-
+</article>
 
 <?php
     include_once '.\includes\footer.php'

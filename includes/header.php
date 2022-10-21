@@ -23,7 +23,7 @@
             <a class="nav-link active" href="#">Destaques</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Editoria</a>
+            <a class="nav-link" id="categorias.php" href="categorias.php">Editoria</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Sobre</a>
