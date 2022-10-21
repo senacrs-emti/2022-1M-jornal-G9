@@ -1,8 +1,8 @@
 <?php
     include_once '.\includes\header.php'
 ?>
-
-<main>
+<div class="row">
+<main class= col-lg-8>
 <h3>DESTAQUES</h3>
         <div class="prop">
            <p>PROPAGANDA</p>
@@ -47,7 +47,7 @@
             </div>
           </div>
 </main>
-<aside>
+<aside class="col-lg-4">
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -70,6 +70,7 @@
   </button>
 </div>
 </aside>
+</div>
 
 <?php
     include_once '.\includes\footer.php'

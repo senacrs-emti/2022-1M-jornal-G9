@@ -5,32 +5,38 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-header{
+nav{
+    padding: 0 !important;
+}
+
+.navbar{
     background-color: #9B6AE6;
-    color: white;
-    padding-top: 15px;
 }
 
-h1{
-    margin-left: 10px;
+.navbar-brand{
+    margin-right: 1%;
 }
 
-.nav{
-    background-color: #7D31B0;
+header form{
+    margin-left: 60%;
 }
 
-.nav-link{
-    color: white;
+header input{
+    margin-right: 2%;
 }
 
-input{
-    width: 300px;
-    border-radius: 10px;
-    border: none;
-    margin-top: 8px;
-    margin-left: 700px;
+header a{
+    color: #ffffff !important;
 }
-<<<<<<< HEAD
+
+.btn{
+    background-color: #ffffff;
+}
+
+.nav-text{
+    color: #ffffff !important;
+}
+
 main{
     width: 70%;
     height:auto;
@@ -66,26 +72,4 @@ aside{
     padding-left: 10px;
     padding-top: 4px; 
     padding-bottom: 4px;  
-=======
-
-footer{
-    background-color: #9B6AE6;
-    color: #fff;
-    width: 100%;
-    height: fit-content;
-    display: flex;
-    justify-content: space-around;
-}
-
-footer a{
-    color: #fff;
-}
-
-footer img{
-    height: 100px;
-    width: 170px;
-}
-footer div{
-    margin-left: 20px;
->>>>>>> 8e8cb3e727fa05f5cdba97c3feff2d10905d2670
 }
