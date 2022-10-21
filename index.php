@@ -62,15 +62,16 @@
       <img src="https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/image11?qlt=82&wid=1024&ts=1646653117295&dpr=off&fit=constrain&fmt=png-alpha" class="d-block w-100">
     </div>
     </div>
-    <button class="carousel-control-prev" type="button" data-target="#chargecontrols" data-slide="prev">
+    <button class="carousel-control-prev" type="button" data-target="#carrosselcontrols" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
     </button>
-    <button class="carousel-control-next" type="button" data-target="#chargecontrols" data-slide="next">
+    <button class="carousel-control-next" type="button" data-target="#carrosselcontrols" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
     </button>
     </div>
+
   <div id="charges" class="carousel slide" data-ride="charges">
     <div class="carousel-inner">
       <div class="carousel-item active">
