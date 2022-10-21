@@ -4,12 +4,17 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+<<<<<<< HEAD
 
 nav{
     padding: 0 !important;
 }
 
 .navbar{
+=======
+/* HEAD */
+header{
+>>>>>>> 258763bf7a4fad124f3c9b0f89cab0cd289f5087
     background-color: #9B6AE6;
 }
 
@@ -29,6 +34,7 @@ header a{
     color: #ffffff !important;
 }
 
+<<<<<<< HEAD
 .btn{
     background-color: #ffffff;
 }
@@ -37,24 +43,24 @@ header a{
     color: #ffffff !important;
 }
 
+=======
+/* MAIN */
+>>>>>>> 258763bf7a4fad124f3c9b0f89cab0cd289f5087
 main{
-    width: 70%;
+    width: 50%;
     height:auto;
     float: left;
     margin-top: 10px;
     margin-left: 7px;
 }
-aside{
-    width: 30%;
-    height: auto;
-    float: right;
-    background-color: aqua;
+main h3{
+    margin-top: 5px;
 }
 .prop{
     height: 100px;
     width: 860px;
     background-color: red;
-    margin-bottom: 20px;
+    float: left;
 }
 .prop p{
     text-align: center;
@@ -72,4 +78,51 @@ aside{
     padding-left: 10px;
     padding-top: 4px; 
     padding-bottom: 4px;  
+<<<<<<< HEAD
+=======
+}
+.card-mb-3{
+    float: left;
+    margin-top: 5px;
+    width: 136%;
+}
+.card00{
+    float: left;
+    width: 100%;
+}
+
+/* ASIDE */
+aside{
+    width: 30%;
+    height: auto;
+    float: right;
+}
+#carrossel{
+    margin-top: 55px;
+}
+#charges.carousel.slide{
+    margin-top: 10px;
+}
+
+/* FOOTER */
+footer{
+    background-color: #9B6AE6;
+    color: #fff;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+}
+footer a{
+    color: #fff;
+}
+
+footer img{
+    height: 100px;
+    width: 170px;
+}
+footer div{
+    margin-left: 20px;
+>>>>>>> 8e8cb3e727fa05f5cdba97c3feff2d10905d2670
+>>>>>>> 258763bf7a4fad124f3c9b0f89cab0cd289f5087
 }
