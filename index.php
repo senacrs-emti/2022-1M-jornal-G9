@@ -49,47 +49,48 @@
             </div>
           </div>
 </main>
-<aside>
-<div id="carrossel" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://pbs.twimg.com/media/ESmC75vWkAANHy5?format=jpg&name=medium" class="d-block w-100">
+  <aside>
+    <div id="carrossel" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://pbs.twimg.com/media/ESmC75vWkAANHy5?format=jpg&name=medium" class="d-block w-100">
     </div>
-    <div class="carousel-item">
-      <img src="https://rcsgd.sa.ucsb.edu/images/default-source/sgd/1280px-asexual_pride_flag-svg.png?sfvrsn=71da4a93_0" class="d-block w-100">
-    </div>
+      <div class="carousel-item">
+        <img src="https://rcsgd.sa.ucsb.edu/images/default-source/sgd/1280px-asexual_pride_flag-svg.png?sfvrsn=71da4a93_0" class="d-block w-100">
+      </div>
     <div class="carousel-item">
       <img src="https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/image11?qlt=82&wid=1024&ts=1646653117295&dpr=off&fit=constrain&fmt=png-alpha" class="d-block w-100">
     </div>
-  </div>
- <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev">
+    </div>
+    <button class="carousel-control-prev" type="button" data-target="#chargecontrols" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next">
+    </button>
+    <button class="carousel-control-next" type="button" data-target="#chargecontrols" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
-  </button>
-</div>
-<div id="charges" class="carousel slide" data-ride="charges">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://64.media.tumblr.com/65c56e15449db2f3ac428f131bb433e2/b997982428e59682-d9/s1280x1920/c23de67a9538de4316c78c3f739d025472981726.jpg" class="d-block w-100">
+    </button>
     </div>
+  <div id="charges" class="carousel slide" data-ride="charges">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+      <img src="https://64.media.tumblr.com/65c56e15449db2f3ac428f131bb433e2/b997982428e59682-d9/s1280x1920/c23de67a9538de4316c78c3f739d025472981726.jpg" class="d-block w-100">
+      </div>
     <div class="carousel-item">
       <img src="https://www.otempo.com.br/image/contentid/policy:1.2536847:1630688021/ilustra-portaldobicentenario-jpeg.jpeg?f=3x2&w=1224" class="d-block w-100">
     </div>
   </div>
- <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev">
+    <button class="carousel-control-prev" type="button" data-target="#chargecontrols" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next">
+  <button class="carousel-control-next" type="button" data-target="#chargecontrols  " data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </button>
 </div>
 </aside>
+
 <?php
     include_once '.\includes\footer.php'
 ?>

@@ -68,11 +68,11 @@ main h3{
 .card-mb-3{
     float: left;
     margin-top: 5px;
-    width: 70%;
+    width: 136%;
 }
 .card00{
     float: left;
-    width: 98%;
+    width: 100%;
 }
 
 /* ASIDE */
@@ -82,7 +82,7 @@ aside{
     float: right;
 }
 #carrossel{
-    margin-top: -310px;
+    margin-top: 55px;
 }
 #charges.carousel.slide{
     margin-top: 10px;
