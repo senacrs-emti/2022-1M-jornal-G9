@@ -3,6 +3,7 @@
 ?>
 
 <main>
+  <a href="categorias.php">categorias</a>
 <h3>DESTAQUES</h3>
         <div class="prop">
            <p>PROPAGANDA</p>
