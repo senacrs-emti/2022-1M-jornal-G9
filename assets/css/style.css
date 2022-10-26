@@ -33,16 +33,16 @@ input{
 
 /*INICIO CSS PAG ARTIGOS*/
 #divbanner{
-    background-color: orange;
+    background-color: #FEA233;
     height: 180px;
     width: 100%;
     margin-top: 40px;
 }
 #sectionartigos{
-    width: 90%;
+    width: 80%;
     height: auto;
     position: relative;
-    left:5%;
+    left:10%;
     margin-top: 40px;
     text-align: justify;
 }
@@ -56,6 +56,7 @@ input{
 #h5subtitulo{
     padding-top: 10px;
     text-align: center;
+    font-size: 3vh;
 }
 #NomeData{
     padding-top: 10px;
@@ -74,6 +75,7 @@ input{
 #artigop{
     margin-top: 40px;
     text-indent: 50px;
+    font-size: 2.5vh;
 }
 #artigorelacionado{
     width: 96%;
@@ -81,6 +83,7 @@ input{
     position: relative;
     left:2%;
     margin-top: 100px;
+    display: flex;
 }
 #reacionadosartigo{
     width: 49%;
@@ -92,40 +95,106 @@ input{
     width: 49%;
     height: 380px;
     float: left;
+    background-color: red;
 }
 #h2relac{
     margin-bottom: 3%;
 }
 #relacionadoquadradoc1{
-    background-color: gold;
+    background-color: #62B4E6;
     width: 48%;
     margin-right: 4%;
     height: 150px;
     margin-bottom: 4%;
     float: left;
+    background-image: url();
+    background-size: ;
+    color: ;
 }   
 #relacionadoquadradoc2{
-    background-color: rgb(0, 170, 255);
+    background-color: #62B4E6;
     width: 48%;
     height: 150px;
     float: left;
 }
 #relacionadoquadradob1{
-    background-color: rgb(0, 255, 64);
+    background-color: #62B4E6;
     width: 48%;
     margin-right: 4%;
     height: 150px;
     float: left;
 }
 #relacionadoquadradob2{
-    background-color: rgb(255, 0, 0);
+    background-color: #62B4E6;
     width: 48%;
     height: 150px;
     float: left;
 }      
 .propartigo{
-    height: 380px;
+    height: 382px;
     width: 100%;
 }
-
+.h5rel{
+    padding: 15px;
+}
+#sobre{
+    background-color: #4167ba;
+    height: 320px;
+    width: 100%;
+    margin-top: 60px;
+    display: flex;
+}
+.h2rec{
+    padding-left: 9vh;
+    padding-top: 2.5vh;
+    font-size: 3;
+    color: white;
+}
+#sp1{
+    width: 33.3%;
+    height: 100%;
+}
+#sp2{
+    width: 33.3%;
+    height: 100%;
+}
+#sp3{
+    width: 33.3%;
+    height: 100%;
+}
+#vid1{
+    height: 58%;
+    width: 80%;
+    margin: 40px;
+    margin-top: 77px;
+    margin-bottom: 10px;
+    background-image: url();
+    background-size: ;
+    background-color: #FEA233;
+}
+#vid2{
+    height: 58%;
+    width: 80%;
+    margin: 40px;
+    margin-top: 23px;
+    margin-bottom: 5px;
+    background-image: url();
+    background-size: ;
+    background-color: #FEA233;
+}
+#vid3{
+    height: 58%;
+    width: 80%;
+    margin: 40px;
+    margin-top: 77px;
+    margin-bottom: 10px;
+    background-image: url();
+    background-size: ;
+    background-color: #FEA233;
+}
+.h5sobre{
+    padding-left: 20vh;
+    color: white;
+    font-size: 2.5vh;
+}
 /*FIM CSS PAG ARTIGOS*/
