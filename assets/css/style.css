@@ -86,11 +86,9 @@ input{
 }
 
 /*INICIO CSS PAG ARTIGOS*/
-#divbanner{
-    background-color: #FEA233;
-    height: 180px;
+#mainartigos{
     width: 100%;
-    margin-top: 40px;
+    height: auto;
 }
 #sectionartigos{
     width: 80%;
@@ -194,6 +192,7 @@ input{
     height: 320px;
     width: 100%;
     margin-top: 60px;
+    margin-bottom: 100px;
     display: flex;
 }
 .h2rec{

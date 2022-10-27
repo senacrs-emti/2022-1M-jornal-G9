@@ -2,7 +2,7 @@
     include_once '.\includes\header.php'
 ?>
 
-<main>
+<main id="mainartigos">
     <section id="sectionartigos">
 
         <h1 id="h1tituloartigo">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h1>
