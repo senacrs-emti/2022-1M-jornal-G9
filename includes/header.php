@@ -17,7 +17,7 @@
     
       <nav class="navbar navbar-expand-lg" style="background-color: #9B6AE6;">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Navbar</a>
+          <a class="navbar-brand" href="#">The LGBT Times</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -30,7 +30,7 @@
                 <a class="nav-link active" aria-current="page" href="#">Categorias</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Editorial</a>
+                <a class="nav-link active" aria-current="page" href="artigos.php">Editorial</a>
               </li>
             </ul>
             <form class="d-flex">
