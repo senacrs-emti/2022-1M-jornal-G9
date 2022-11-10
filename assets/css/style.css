@@ -53,6 +53,175 @@ header a{
 }
 
 /* MAIN END */
+input{
+    width: 300px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 8px;
+    margin-left: 700px;
+}
+
+/*INICIO CSS PAG ARTIGOS*/
+#mainartigos{
+    width: 100%;
+    height: auto;
+}
+#sectionartigos{
+    width: 80%;
+    height: auto;
+    position: relative;
+    left:10%;
+    margin-top: 40px;
+    text-align: justify;
+}
+
+#h1tituloartigo{
+    text-align: center;
+    font-size: 9vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#h5subtitulo{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 3vh;
+}
+#NomeData{
+    padding-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    opacity: 80%;
+}
+.imgcompartilhar{
+    width: 20px;
+    align-content: center;
+}
+.imgartigos{
+    height: 300px;
+    margin-top: 15px;
+}
+#artigop{
+    margin-top: 40px;
+    text-indent: 50px;
+    font-size: 2.5vh;
+}
+#artigorelacionado{
+    width: 96%;
+    height: auto;
+    position: relative;
+    left:2%;
+    margin-top: 100px;
+    display: flex;
+}
+#reacionadosartigo{
+    width: 49%;
+    height: auto;
+    margin-right: 2%;
+    float: left;
+}
+#propagandaartigo{
+    width: 49%;
+    height: 380px;
+    float: left;
+    background-color: red;
+}
+#h2relac{
+    margin-bottom: 3%;
+}
+#relacionadoquadradoc1{
+    background-color: #62B4E6;
+    width: 48%;
+    margin-right: 4%;
+    height: 150px;
+    margin-bottom: 4%;
+    float: left;
+    background-image: url();
+}   
+#relacionadoquadradoc2{
+    background-color: #62B4E6;
+    width: 48%;
+    height: 150px;
+    float: left;
+}
+#relacionadoquadradob1{
+    background-color: #62B4E6;
+    width: 48%;
+    margin-right: 4%;
+    height: 150px;
+    float: left;
+}
+#relacionadoquadradob2{
+    background-color: #62B4E6;
+    width: 48%;
+    height: 150px;
+    float: left;
+}      
+.propartigo{
+    height: 382px;
+    width: 100%;
+}
+.h5rel{
+    padding: 15px;
+}
+#sobre{
+    background-color: #4167ba;
+    height: 320px;
+    width: 100%;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    display: flex;
+}
+.h2rec{
+    padding-left: 9vh;
+    padding-top: 2.5vh;
+    font-size: 3;
+    color: white;
+}
+#sp1{
+    width: 33.3%;
+    height: 100%;
+}
+#sp2{
+    width: 33.3%;
+    height: 100%;
+}
+#sp3{
+    width: 33.3%;
+    height: 100%;
+}
+#vid1{
+    height: 58%;
+    width: 80%;
+    margin: 40px;
+    margin-top: 77px;
+    margin-bottom: 10px;
+    background-image: url();
+    background-color: #FEA233;
+}
+#vid2{
+    height: 58%;
+    width: 80%;
+    margin: 40px;
+    margin-top: 23px;
+    margin-bottom: 5px;
+    background-image: url();
+    background-color: #FEA233;
+}
+#vid3{
+    height: 58%;
+    width: 80%;
+    margin: 40px;
+    margin-top: 77px;
+    margin-bottom: 10px;
+    background-image: url();
+    background-color: #FEA233;
+}
+.h5sobre{
+    padding-left: 20vh;
+    color: white;
+    font-size: 2.5vh;
+}
+/*FIM CSS PAG ARTIGOS*/
 
 /* ASIDE */
 
@@ -99,3 +268,4 @@ footer img {
     width: 170px;
     height: 100px;
 }
+

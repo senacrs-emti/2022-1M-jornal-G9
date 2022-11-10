@@ -49,6 +49,18 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img src="https://s2.glbimg.com/aPPFcq_RGl0Wd1K-6UiFZlJlUWs=/e.glbimg.com/og/ed/f/original/2021/06/10/bandeira_lgbt.png" class="d-block" alt="...">
+
+<main>
+    <a href="artigos.php">artigos</a>
+</main>
+  <aside class="col-lg-4">
+      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div id="carrossel" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="https://pbs.twimg.com/media/ESmC75vWkAANHy5?format=jpg&name=medium" class="d-block w-100">
       </div>
       <div class="carousel-item">
         <img src="https://s2.glbimg.com/aPPFcq_RGl0Wd1K-6UiFZlJlUWs=/e.glbimg.com/og/ed/f/original/2021/06/10/bandeira_lgbt.png" class="d-block" alt="...">
