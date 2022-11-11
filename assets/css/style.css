@@ -1,97 +1,110 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-nav{
+nav {
     padding: 0 !important;
 }
-header{
+
+header {
     background-color: #9B6AE6;
 }
 
-.navbar-brand{
+.navbar-brand {
     margin-right: 1%;
 }
 
-header form{
+header form {
     margin-left: 60%;
 }
 
-header input{
+header input {
     margin-right: 2%;
 }
 
-header a{
+header a {
     color: #ffffff !important;
 }
-.btn{
+
+.btn {
     background-color: #ffffff;
 }
 
-.nav-text{
+.nav-text {
     color: #ffffff !important;
 }
-main{
+
+main {
     width: 50%;
-    height:auto;
-    float: left;    
+    height: auto;
+    float: left;
     margin-top: 10px;
     margin-left: 7px;
 }
-main h3{
+
+main h3 {
     margin-top: 5px;
 }
-.prop{
+
+.prop {
     height: 100px;
     width: 859px;
     background-color: red;
     float: left;
 }
-.prop p{
+
+.prop p {
     text-align: center;
     padding-top: 40px;
     margin-left: 0px;
     color: white;
 }
-.card-body{
+
+.card-body {
     background-color: rgb(98, 179, 230);
 }
-.col-md-4{
+
+.col-md-4 {
     background-color: rgb(98, 179, 230);
 }
-.col-md-4 img{
+
+.col-md-4 img {
     padding-left: 10px;
-    padding-top: 4px; 
-    padding-bottom: 4px;  
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
-.card-mb-3{
+
+.card-mb-3 {
     float: left;
     margin-top: 5px;
     width: 136%;
 }
-.card00{
+
+.card00 {
     float: left;
     width: 100%;
 }
 
 /* ASIDE */
-aside{
+aside {
     width: 30%;
     height: auto;
     float: left;
 }
-#carrossel{
+
+#carrossel {
     margin-top: 55px;
 }
-#charges.carousel.slide{
+
+#charges.carousel.slide {
     margin-top: 10px;
 }
 
 /* FOOTER */
-footer{
+footer {
     background-color: #9B6AE6;
     color: #fff;
     width: 100%;
@@ -99,14 +112,29 @@ footer{
     display: flex;
     justify-content: space-around;
 }
-footer a{
+
+footer a {
     color: #fff;
 }
 
-footer img{
+footer img {
     height: 100px;
     width: 170px;
 }
-footer div{
+
+footer div {
     margin-left: 20px;
 }
+
+.flag-div {
+    background-color: #ff6699;
+    height: 150px;
+    margin-bottom: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.titulo-flag{
+    font-weight: 800;
+}
+
