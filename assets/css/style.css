@@ -13,46 +13,86 @@ header a{
 /* HEADER END */
 
 /* MAIN */
-
-.add-card{
-    margin-left: 30px;
-    margin-top: 10px;
-    width: 500px;
-}
-
-.add-card h1{
-    font-weight: 800;
-    text-align: center;
-}
-
-.add-card img{
-    width: 500px;
-    height: 200px;
-}
-
-.card{
-    display: grid;
-    background-color: #9B6AE6;
-    width: 500px;
-    margin-top: 10px;
-    margin-left: 30px;
-}
-
-.card:last-of-type{
-    margin-bottom: 10px;
-}
-
-.card img{
-    width: 200px;
-    height: 200px;
-    grid-column: 1/2;
-}
-
-.card-body{
-    grid-column: 2/3;
-}
-
+    .col-lg-8{
+        height: auto;
+        width: 64%;
+        margin: 1%;
+    }
+    .col-lg-8 h1{
+        font-weight: 600;
+    }
+    .col-lg-8 a{
+        text-decoration: none;
+        color: black    ;
+    }
+    #propagandadestaques{
+        background-color: red;
+        width: 100%;
+        height: 200px;
+    }
+    .destaques{
+        width: 100%;
+        height: 200px;
+        margin-top: 20px;
+        background-color: #62B4E6;
+        display: flex;
+    }
+    .imgdestaquesdiv{
+        width: 35%;
+        height: 90%;
+        margin-left: 10px;
+        margin-top: 10px;
+        background-color: #FEA233;
+        display: flex;
+    }
+    .imgdestaque{
+        width: 100%;
+        height: 100%;
+    }
+    .textosdestaque{
+        width: 61%;
+        height: 90%;
+        margin: 10px;
+    }
+    .textosdestaque h4{
+        font-weight: 600;
+    }
 /* MAIN END */
+
+/* LIVROS START */
+    #livrosrec{
+        background-color: #4167ba;
+        height: 320px;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    #livrosrec h2{
+        display: flex;
+        margin-top: 2px;
+        margin-left: 40vh;
+    }
+    .livros{
+        width: 150px;
+        height: 80%;
+        margin-top: 12px;
+        margin-left: 20px;
+    }
+    .nomeescritor{
+        margin-top: 2px;
+    }
+
+/* LIVROS END */
+
+/* ASIDE */
+    .col-lg-4{
+        width: 31%;
+        height: 600px;
+        background-color: #FEA233;
+        margin: 1%;
+    }
+
+/* ASIDE END */
 input{
     width: 300px;
     border-radius: 10px;
@@ -223,20 +263,7 @@ input{
 }
 /*FIM CSS PAG ARTIGOS*/
 
-/* ASIDE */
 
-
-.carousel{
-    width: fit-content;
-    height: fit-content;
-}
-
-.carousel img{
-    width: 300px;
-    height: 300px;
-}
-
-/* ASIDE END */
 
 /* FOOTER */
 
