@@ -1,21 +1,19 @@
-<?php
-    include_once '.\includes\header.php'
+<?php 
+    include_once './includes/header.php'
 ?>
-<link rel="stylesheet" href=".\assets\css\style.css">
-
 <main class="assuntos">
-        <h1>POPULARES</h1>
-        <div class="box-artigos">
-            <div class="img-box"><img class="img-x" src="imgs-categoria/x.png" alt=""></div>
-            <p>lol</p>
+    
+    <h1>POPULARES</h1>
+    <div class="box-artigos">
+        <div class="img-box">
+            <img class="img-x" src="imgs-categoria/x.png" alt="">
         </div>
-        <div class="box-artigos">
-            <div class="img-box"><img class="img-x" src="imgs-categoria/x.png" alt=""></div>
-            <p>lol</p>
-        </div>
-        <div class="box-artigos">
-            <div class="img-box"><img class="img-x" src="imgs-categoria/x.png" alt=""></div>
-            <p>lol</p>
-        </div>
-</main>
+        <h3>Titulo</h3>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores delectus quibusdam magni ipsa! Obcaecati eligendi mollitia labore cum dolorem maxime magni ipsa sunt rerum quidem commodi, animi tenetur temporibus repudiandae!</p>
+    </div>
 
+    
+</main>
+<aside>
+
+</aside>
