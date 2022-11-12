@@ -5,6 +5,7 @@
   <div class="row">
 
     <main class="col-lg-8"> 
+
       <h1>DESTAQUES</h1>
       <section id="propagandadestaques"></section>
       <section class="destaques">
@@ -33,15 +34,67 @@
 
     </main>
     <aside class="col-lg-4">
+        
+        <section id="carouselflag">
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/1200px-Gay_Pride_Flag.svg.png" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-11-43-29-am-1589903026.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-12-03-54-pm-1589904242.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-12-18-24-pm-1589905335.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-10-51-04-am-1589986287.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="">
+                </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
+        </section>
+
+        <section class="charge">
+          <img class="charge" src="https://conteudo.imguol.com.br/c/entretenimento/e3/2020/06/30/a-charge-do-artista-ribs-sobre-visibilidade-lgbt-1593556202835_v2_450x337.jpg" alt="">
+        </section>
+
+        <section id="artsitasaside">
+
+          <div class="artista1">
+            <img class="imgartista1" src="" alt="">
+          </div>
+          <div class="artista2">
+            <img class="imgartista2" src="" alt="">
+          </div>
+          <div class="artista3">
+            <img class="imgartista3" src="" alt="">
+          </div>
+          <div class="artista4">
+            <img class="imgartista4" src="" alt="">
+          </div>
+
+        </section>
 
     </aside>
+
     <section id="livrosrec">
 
       <div class="row">
         <center>
-        <h1>
+        <h2>
           RECOMENDAÇÕES
-        </h1>
+        </h2>
       </div>
         </center>
       <div class="row">
