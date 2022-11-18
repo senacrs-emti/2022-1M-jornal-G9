@@ -26,13 +26,13 @@
         </div>
         <p class="col-9">TITULO <br>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores delectus quibusdam magni ipsa! Obcaecati eligendi mollitia labore cum dolorem maxime magni ipsa sunt rerum quidem commodi, animi tenetur temporibus repudiandae!</br></p>
     </div>
-
-
-    
+  
 </article>
+
 <aside>
     <div class="propa"><p><b>Propaganda</b><p></div>
 </aside>
+
 </main class="back">
 <?php
     include_once '.\includes\footer.php'
