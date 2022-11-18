@@ -83,11 +83,12 @@ footer div{
     width: 70%;
     height: 100%;
     
-
 }
 .box-artigos{
-    display: block;
     background-color: #7D31B0;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 10em;
 }
 .img-x{
     width: 140px;
@@ -100,11 +101,17 @@ footer div{
     float: left;
 }
 .assuntos p{
+    align-self: left;
     width: 60%;
     clear: both;
+    float: left;
+  
 }
-p{
-    display: flex;
+h3{
+    align-self: stretch;
+    width: 15px;
+    height: 10px;
 }
+  margin-right: 30em;
 /*FIM CSS CATEGORIAS*/
 
