@@ -82,6 +82,7 @@ footer div{
 .assuntos{
     width: 70%;
     height: 100%;
+    
 
 }
 .box-artigos{
@@ -99,9 +100,11 @@ footer div{
     float: left;
 }
 .assuntos p{
-    float: left;
     width: 60%;
     clear: both;
+}
+p{
+    display: flex;
 }
 /*FIM CSS CATEGORIAS*/
 
