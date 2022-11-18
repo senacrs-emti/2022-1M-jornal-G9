@@ -70,20 +70,15 @@
         </section>
 
         <section id="artsitasaside">
-
-          <div class="artista1">
-            <img class="imgartista1" src="" alt="">
-          </div>
-          <div class="artista2">
-            <img class="imgartista2" src="" alt="">
-          </div>
-          <div class="artista3">
-            <img class="imgartista3" src="" alt="">
-          </div>
-          <div class="artista4">
-            <img class="imgartista4" src="" alt="">
-          </div>
-
+                      <ul class="list-group list-group-horizontal">
+                <li class="list-group-item"><center><img class="imgartista" src="https://veja.abril.com.br/wp-content/uploads/2017/08/3.jpg" class="grid-img" alt=""></center></li>
+                <li class="list-group-item"><center><img class="imgartista" src="https://yt3.ggpht.com/bB-BjsfmyCs27_PW0RmtI6O6Ox7_TPekQHLGgyOQDYt5nBOkvAv_rNd0xI0cIqaEAbimaqjo=s900-c-k-c0x00ffffff-no-rj" class="grid-img" alt=""></center></li>
+              </ul>
+              <ul class="list-group list-group-horizontal-sm">
+                <li class="list-group-item"><center><img class="imgartista" src="https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2021/09/14/905372105-design-sem-nome-2021-09-14t145125529.png" class="grid-img" alt=""></center></li>
+                <li class="list-group-item"><center><img class="imgartista" src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/35896_4B6387DB74019A97.png?w=1200&h=900&crop=1" class="grid-img" alt=""></center></li>
+              </ul>
+              
         </section>
 
     </aside>
