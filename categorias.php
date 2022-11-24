@@ -35,9 +35,6 @@
     </main>
     <aside class="col-lg-4">
     
-              
-        
-
         <section class="propaganda">
           <center>PROPAGANDA</center>
         </section>
