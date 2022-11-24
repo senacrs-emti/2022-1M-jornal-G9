@@ -39,7 +39,7 @@
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/1200px-Gay_Pride_Flag.svg.png" class="d-block w-100" alt="...">
+                  <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/1200px-Gay_Pride_Flag.svg.png" class="d-block w-100" alt="..."></a>
                 </div>
                 <div class="carousel-item">
                   <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-11-43-29-am-1589903026.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="...">
