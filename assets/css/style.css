@@ -22,7 +22,7 @@ header a{
     .col-lg-8-home h1{
         font-weight: 600;
     }
-    .col-lg-8-home a{
+    .col-lg-8 a{
         text-decoration: none;
         color: black    ;
     }
@@ -85,8 +85,6 @@ header a{
         height: 75%;
         margin-top: 8px; 
         margin-left: 60px;
-
-    }
 
     }
     .nomeescritor{
