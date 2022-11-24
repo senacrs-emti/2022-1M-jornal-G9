@@ -76,15 +76,15 @@
       <div class="row">
         <div class="col-4">
           <img class="videos" src="./imgs-categoria/roxo.jpg" alt="">
-          <center><h6 class="nomeescritor">NOME DO VIDEO</h6></center> 
+          <center><h6 class="nomesvideo">NOME DO VIDEO</h6></center> 
         </div>
         <div class="col-4">
           <img class="videos" src="./imgs-categoria/roxo.jpg" alt="">
-          <center><h6 class="nomeescritor">NOME DO VIDEO</h6></center> 
+          <center><h6 class="nomesvideo">NOME DO VIDEO</h6></center> 
         </div>
         <div class="col-4">
           <img class="videos" src="./imgs-categoria/roxo.jpg" alt="">
-          <center><h6 class="nomeescritor">NOME DO VIDEO</h6></center> 
+          <center><h6 class="nomesvideo">NOME DO VIDEO</h6></center> 
         </div>
 
       </div>
