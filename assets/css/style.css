@@ -6,12 +6,14 @@
 /* HEADER */
 #a-pesquisa{
     width: 22vw;
-    border: 5px solid linear-gradient(rgba(0, 128, 255, 0.5), rgba(255, 0, 195, 0.5));
+    background-image: linear-gradient(to bottom, rgb(255, 0, 0), rgb(255, 153, 0), rgb(255, 247, 0), rgb(52, 222, 14), rgb(0, 31, 235), rgb(128, 12, 206));
 }
 #botao{
     height: 7vh;
     margin-top: 20px;
     color: #000000;
+    background-image: linear-gradient(to bottom, rgb(255, 3, 3), rgb(255 140 0), rgb(255, 237, 0), rgb(16, 192, 16),rgb(0, 0, 255) );
+  
 }
 /* HEADER */
 header a{
