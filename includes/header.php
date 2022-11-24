@@ -34,8 +34,8 @@
               </li>
             </ul>
             <form class="d-flex">
-              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-warning" type="submit">Search</button>
+              <input class="form-control me-2 m-4" id="a-pesquisa" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-warning" id="botao" type="submit">Search</button>
             </form>
           </div>
         </div>

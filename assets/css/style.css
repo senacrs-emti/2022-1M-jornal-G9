@@ -4,8 +4,15 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 /* HEADER */
-
-
+#a-pesquisa{
+    width: 22vw;
+    border: 5px solid linear-gradient(rgba(0, 128, 255, 0.5), rgba(255, 0, 195, 0.5));
+}
+#botao{
+    height: 7vh;
+    margin-top: 20px;
+    color: #000000;
+}
 /* HEADER */
 header a{
     color: white!important;
