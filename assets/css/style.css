@@ -60,7 +60,7 @@ header a{
     }
 /* MAIN END */
 
-/* LIVROS START */
+/* LIVROS e VIDEOS START */
     #livrosrec{
         background-color: #4167ba;
         height: 300px;
@@ -87,14 +87,16 @@ header a{
         margin-left: 60px;
 
     }
-
-    }
     .nomeescritor{
         margin-top: 2px;
         color: white;
     }
+    .nomesvideo{
+        margin-top: 2px;
+        color: white;
+    }
 
-/* LIVROS END */
+/* LIVROS e VIDEOS END */
 
 /* ASIDE */
     .col-lg-4{
