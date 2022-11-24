@@ -39,7 +39,7 @@
 
 <img src="https://pixelnerd.com.br/wp-content/uploads/2021/10/Real-Magic-Coca-Cola-e1633532545956.png" alt="" style=" width:600px; height:300px; margin-top: 4%">
 
-<div class="list-group" style="margin-left:13%; margin-top: 3%; width:500px;">
+<div class="list-group" style= "margin-top: 3%; width:100px;">
 
   <a href="#" class="list-group-item list-group-item-action active" aria-current="true">POPULARES</a>
   <a href="#" class="list-group-item list-group-item-action">A second link item</a>

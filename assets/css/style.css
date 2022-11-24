@@ -6,6 +6,7 @@
 /* HEADER */
 
 
+
 /* HEADER */
 header a{
     color: white!important;
@@ -479,11 +480,6 @@ main h3 {
 }
 
 /* ASIDE */
-aside {
-    width: 30%;
-    height: auto;
-    float: left;
-}
 
 #carrossel {
     margin-top: 55px;
@@ -513,7 +509,7 @@ footer img {
 }
 
 footer div {
-    margin-left: 0px;
+    margin-left: 20px;
 }
 
 .flag-div {
@@ -525,5 +521,7 @@ footer div {
 }
 
 .titulo-flag{
+    margin-top: 10px;
     font-weight: 800;
 }
+
