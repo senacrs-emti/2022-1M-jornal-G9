@@ -33,7 +33,7 @@
       </section>
 
     </main>
-    <aside class="col-lg-4">
+    <aside class="col-lg-4-home">
         
         <section id="carouselflag">
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -98,11 +98,6 @@
           <center><h6 class="nomeescritor">MAURENE GOO</h6></center> 
 
 <main>
-  <a href="categorias.php">categorias</a>
-<h3>DESTAQUES</h3>
-        <div class="prop">
-           <p>PROPAGANDA</p>
-
         </div>
         <div class="col-2">
           <img class="livros" src="https://m.media-amazon.com/images/I/61UHNHKpj+L.jpg" alt="">
