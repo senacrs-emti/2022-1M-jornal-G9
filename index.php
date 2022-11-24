@@ -8,7 +8,7 @@
 
       <h1>DESTAQUES</h1>
       <section id="propagandadestaques"></section>
-      <section class="destaques">
+      <section class="destaques-home">
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
         <div class="textosdestaque"><a href="">
           <h4>PESSOAS NÃO ROYULADAS NA COMUNIDADE LGBT</h4>
@@ -16,7 +16,7 @@
         </a></div>
       </section>
 
-      <section class="destaques">
+      <section class="destaques-home">
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
         <div class="textosdestaque"><a href="">
           <h4></h4>
@@ -24,7 +24,7 @@
         </a></div>
       </section>
 
-      <section class="destaques">
+      <section class="destaques-home">
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
         <div class="textosdestaque"><a href="">
           <h4></h4>
