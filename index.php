@@ -11,7 +11,7 @@
       <section class="destaques-home">
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
         <div class="textosdestaque"><a href="">
-          <h4>PESSOAS NÃO ROYULADAS NA COMUNIDADE LGBT</h4>
+          <h4>PESSOAS NÃO ROTULADAS NO MEIO LGBTQIA+</h4>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
         </a></div>
       </section>
