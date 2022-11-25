@@ -53,6 +53,42 @@
                 <div class="carousel-item">
                   <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-10-51-04-am-1589986287.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="">
                 </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/demisexualflag-1617844798.jpg?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-1-24-20-pm-1589911329.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/aromantic-flag-1592237769.jpg?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-11-39-51-am-1589989200.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-12-14-01-pm-1589991291.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_Gay_Pride_Flag.svg/1024px-New_Gay_Pride_Flag.svg.png" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aroace_flag.svg/2560px-Aroace_flag.svg.png" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd5829ed-efc1-4ca8-813f-8e31e4df26af/defmech-2828445c-1a48-4527-956d-02c7b0638785.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkNTgyOWVkLWVmYzEtNGNhOC04MTNmLThlMzFlNGRmMjZhZlwvZGVmbWVjaC0yODI4NDQ1Yy0xYTQ4LTQ1MjctOTU2ZC0wMmM3YjA2Mzg3ODUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZJr3NzElowEG7dPEukZAswLcMKj0NNmeZQqbYbwhh8E" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Enbian_Pride_flag.svg/1200px-Enbian_Pride_flag.svg.png" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Grey_asexuality_flag.svg/1200px-Grey_asexuality_flag.svg.png" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bigender_flag.svg/2560px-Bigender_flag.svg.png" class="d-block w-100" alt="">
+                </div>
+                <div class="carousel-item">
+                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Polyamory_Pride_Flag.svg/2560px-Polyamory_Pride_Flag.svg.png" class="d-block w-100" alt="">
+                </div>
               </div>
               <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
