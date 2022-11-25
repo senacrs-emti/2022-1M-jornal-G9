@@ -16,7 +16,11 @@
     
       <nav class="navbar navbar-expand-lg" style="background-color: #9B6AE6;">
         <div class="container-fluid">
+<<<<<<< HEAD
           <a class="navbar-brand" id="titulo" href="#">The LGBT Times</a>
+=======
+          <a class="navbar-brand" href="index.php">The LGBT Times</a>
+>>>>>>> 44163922710001366c7efcbec85133c17d651c4b
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>

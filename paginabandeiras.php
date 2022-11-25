@@ -6,7 +6,7 @@
 <div class="container-fluid">
 <div class="row">
 
-<main class="col-6">
+<main class="col-lg-8">
 
 <center>
     <h1 class="titulo-flag">PLACEHOLDER</h1>
@@ -35,23 +35,31 @@
 </center>
 
 </main>
-<aside class="col-4">
+<aside class="col-lg-4">
+    
+        <section class="propaganda">
+          <center>PROPAGANDA</center>
+        </section>
 
-<img src="https://pixelnerd.com.br/wp-content/uploads/2021/10/Real-Magic-Coca-Cola-e1633532545956.png" alt="" style=" width:600px; height:300px; margin-top: 4%">
+        <section id="popularess">
+            
+        <ul class="list-group list-group-horizontal">
+        </section>
+        <section class="maispopulares">
+            <div class="pa">POPULARES</div>
+            <ul>
+                <li>Um assunto Gay</li>
+                <li>Um assunto Lésbico</li>
+                <li>Um assunto Bi</li>
+                <li>Um assunto Pan</li>
+                <li>Um assunto Trans</li>
+                <li>Um assunto Ace</li>
+                <li>Um assunto Aro</li>
 
-<div class="list-group" style= "margin-top: 3%; width:100px;">
+            </ul>
 
-  <a href="#" class="list-group-item list-group-item-action active" aria-current="true">POPULARES</a>
-  <a href="#" class="list-group-item list-group-item-action">A second link item</a>
-  <a href="#" class="list-group-item list-group-item-action">A third link item</a>
-  <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
-  <a href="#" class="list-group-item list-group-item-action">A second link item</a>
-  <a href="#" class="list-group-item list-group-item-action">A third link item</a>
-  <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
-
-</div>
-
-</aside>
+        </section>
+    </aside>
 <center>
 <div class="row">
 
@@ -87,6 +95,7 @@
 </center>
 
 
+</div>
 </div>
 
 <?php
