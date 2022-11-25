@@ -17,10 +17,6 @@ HEAD
   
 }
 
-
-
->>>>>>> 456fdac741d0a202ae301ff2ac099466f8d5928d
-/* HEADER */
 header a{
     color: white!important;
 }
@@ -29,6 +25,11 @@ header a{
 
 /* MAIN */
     .col-lg-8-home{
+        height: auto;
+        width: 64%;
+        margin: 1%;
+    }
+    .col-lg-8{
         height: auto;
         width: 64%;
         margin: 1%;
@@ -217,9 +218,11 @@ input{
 }
 
 /*INICIO CSS PAG ARTIGOS*/
-    #mainartigos{
+    .col-lg-12{
         width: 100%;
         height: auto;
+        padding: 0;
+        margin: 0;
     }
     #sectionartigos{
         width: 80%;
@@ -378,36 +381,7 @@ input{
     }
     /*FIM CSS PAG ARTIGOS*/
 
-    /* FOOTER */
-
-    footer {
-        background-color: #9B6AE6;
-        color: #fff;
-        display: grid;
-    }
-
-    footer ul {
-        margin-left: 20px;
-        grid-column: 1/2;
-    }
-
-    footer img {
-        margin-left: 20px;
-        grid-column: 2/3;
-    }
-
-    footer li {
-        list-style: none;
-    }
-
-    footer a {
-        color: white;
-    }
-
-    footer img {
-        width: 170px;
-        height: 100px;
-    }
+    
 
 nav {
     padding: 0 !important;
@@ -503,6 +477,35 @@ main h3 {
 }
 
 /* FOOTER */
+
+    footer {
+        background-color: #9B6AE6;
+        color: #fff;
+        display: grid;
+    }
+
+    footer ul {
+        margin-left: 20px;
+        grid-column: 1/2;
+    }
+
+    footer img {
+        margin-left: 20px;
+        grid-column: 2/3;
+    }
+
+    footer li {
+        list-style: none;
+    }
+
+    footer a {
+        color: white;
+    }
+
+    footer img {
+        width: 170px;
+        height: 100px;
+    }
 footer {
     background-color: #9B6AE6;
     color: #fff;
@@ -512,25 +515,14 @@ footer {
     justify-content: space-around;
 }
 
-footer a {
-    color: #fff;
-}
-
-footer img {
-    height: 100px;
-    width: 170px;
-}
-
-footer div {
-    margin-left: 20px;
-}
 
 .flag-div {
     background-color: #ff6699;
     height: 150px;
     margin-bottom: 10px;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 60px;
+    margin-left: -40px;
 }
 
 .titulo-flag{
