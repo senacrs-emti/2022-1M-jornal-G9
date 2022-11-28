@@ -395,9 +395,13 @@ input{
         background-color: #FEA233;
     }
     .h5sobre{
-        padding-left: 20vh;
         color: white;
-        font-size: 2.5vh;
+        font-size: 2.2vh;
+        text-align: center;
+    }
+    #vid{
+        width: 100%;
+        height: 100%;
     }
     /*FIM CSS PAG ARTIGOS*/
 

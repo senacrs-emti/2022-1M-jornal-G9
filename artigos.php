@@ -52,20 +52,20 @@
                     <section id="sobre">
                         <span id="sp1">
                             <a href="">
-                                <div id="vid1"></div>
+                                <div id="vid1"><img id="vid" src="" alt=""></div>
                             </a>
                             <h5 class="h5sobre">NOME DO VIDEO</h5>
                         </span>
                         <span id="sp2">
                             <h2 class="h2rec">RECOMENDAÇÕES</h2>
                             <a href="">
-                                <div id="vid2"></div>
+                                <div id="vid2"><img id="vid" src="" alt=""></div>
                             </a>
                             <h5 class="h5sobre">NOME DO VIDEO</h5>
                         </span>
                         <span id="sp3">
                             <a href="">
-                                <div id="vid3"></div>
+                                <div id="vid3"><img id="vid" src="" alt=""></div>
                             </a>
                             <h5 class="h5sobre">NOME DO VIDEO</h5>
                         </span>

@@ -27,16 +27,16 @@
               </li>
               
               <li class="nav-item">
-                <a class="nav-link active" id="icon" aria-current="page" href="categorias.php">Notícia</a>
+                <a class="nav-link active" id="icon" aria-current="page" href="editorial-noticia.php">Notícia</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" id="icon" aria-current="page" href="categorias.php">Entrevista</a>
+                <a class="nav-link active" id="icon" aria-current="page" href="editorial-entrevista.php">Entrevista</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" id="icon" aria-current="page" href="categorias.php">Artigo Opinião</a>
+                <a class="nav-link active" id="icon" aria-current="page" href="editorial-opiniao.php">Artigo Opinião</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" id="icon" aria-current="page" href="categorias.php">Crônica</a>
+                <a class="nav-link active" id="icon" aria-current="page" href="editorial-cronica.php">Crônica</a>
               </li>
             </ul>
             <form class="d-flex">

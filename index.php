@@ -10,9 +10,9 @@
       <section id="propagandadestaques"></section>
       <section class="destaques-home">
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
+        <div class="textosdestaque"><a href="./opiniao-pessoas-nao-rotuladas.php">
           <h4>PESSOAS NÃO ROTULADAS NO MEIO LGBTQIA+</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
+          <p>Diante dessa imensidão de generos e sexualidades que é a comunidade LGBT, é relmente importante se rotular?</p>
         </a></div>
       </section>
 
