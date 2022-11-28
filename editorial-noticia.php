@@ -10,8 +10,8 @@
       
       <section class="populares">
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
+        <div class="textosdestaque"><a href="noticia-comunidade-lgbt-no-mercado-de-trabalho.php">
+          <h4>Comunidade LGBT no mercado de trabalho</h4>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
         </a></div>
       </section>

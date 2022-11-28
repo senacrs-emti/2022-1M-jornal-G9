@@ -7,7 +7,7 @@
             <main class="col-lg-12">
                     <section id="sectionartigos">
 
-                        <h1 id="h1tituloartigo">PESSOAS NÃO ROTULADAS NO MEIO LGBTQIA+.</h1>
+                        <h1 id="h1tituloartigo">Pessoas não rotuladas na comunidade LGBT<h1>
                         <h5 id="h5subtitulo">Diante dessa imensidão de generos e sexualidades que é a comunidade LGBT, é relmente importante se rotular?</h3>
                         <h6 id="NomeData">Por Ellen Vargas em 18 de novembro 2022, as 10:56</h6>
                         <center>
