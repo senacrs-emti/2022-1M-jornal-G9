@@ -12,7 +12,7 @@
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
         <div class="textosdestaque"><a href="noticia-comunidade-lgbt-no-mercado-de-trabalho.php">
           <h4>Comunidade LGBT no mercado de trabalho</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
+          <p>Como o Brasil lida com a presença ativa da comunidade LGBT no mercado de trabalho e as inseguranças da comunidade.</p>
         </a></div>
       </section>
 

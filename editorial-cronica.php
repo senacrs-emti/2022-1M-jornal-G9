@@ -12,7 +12,7 @@
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
         <div class="textosdestaque"><a href="cronica-lgbt-lgbtfobicos.php">
           <h4>LGBT's LGBTfóbicos</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
+          <p>Uma crônica sobre a hipocrisia de LGBT's LGBTfóbicos</p>
         </a></div>
       </section>
 
