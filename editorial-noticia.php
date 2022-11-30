@@ -17,10 +17,10 @@
       </section>
 
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod reprehenderit iure voluptatum fugiat maxime. Maiores tempora, placeat enim sed vel dolorem, vitae distinctio doloribus commodi quisquam magni, voluptatum voluptates inventore?</p>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://www.promoview.com.br/uploads/2017/05/images/Maio_2017/22.05/entretenimento.jpg" alt=""></div>
+        <div class="textosdestaque"><a href="noticia-rossi.php">
+          <h4>LGBTQIAP+ no entretenimento </h4>
+          <p>Algumas representações LGBTQIAP+ no entretenimento, como também recomendações.</p>
         </a></div>
       </section>
 
