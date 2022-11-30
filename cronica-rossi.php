@@ -16,7 +16,6 @@
                         <hr>
                         <center>
                             <img class="imgartigos" src="https://i.pinimg.com/736x/f8/f5/3d/f8f53d183d5c9fd0ba52b1442b7c4e37.jpg" alt="">
-                            <figcaption>https://br.pinterest.com/pin/566116615659974557/ Bandeira de orgulho</figcaption>
                         </center>
                         <p id="artigop">Bem, comecemos com a pergunta que não quer calar, por que eu não recomendo sair do armário? Pelo simples motivo de não ser tão necessário, as pessoas não têm que saber qual a sua sexualidade, elas só vão te incomodar com perguntas desnecessárias e sem sentido na maioria das vezes. Mas e o gênero? Este já é outro assunto, todos não precisam saber precisamente o que você é, apenas como quer ser chamado. </p>
                         <p id="artigop">Mas voltando ao assunto principal, irei lhes contar de como eu saí do armário para algumas pessoas:  </p>
