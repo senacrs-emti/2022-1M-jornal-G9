@@ -9,7 +9,7 @@
       <h1>DESTAQUES</h1>
       <section id="propagandadestaques"></section>
       <section class="destaques-home">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://blog.uaubox.com.br/wp-content/uploads/2021/06/11112.png" alt=""></div>
         <div class="textosdestaque"><a href="./opiniao-pessoas-nao-rotuladas.php">
           <h4>Pessoas não rotuladas na comunidade LGBT</h4>
           <p>Diante dessa imensidão de generos e sexualidades que é a comunidade LGBT, é relmente importante se rotular?</p>
