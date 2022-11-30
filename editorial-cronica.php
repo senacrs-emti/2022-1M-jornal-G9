@@ -9,10 +9,10 @@
       <h1>Crônica</h1>
       
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://imgsapp.em.com.br/app/noticia_127983242361/2022/09/15/1391357/dom-lancellotti-em-manifestacao-em-favor-de-bolsonaro_2_91481.jpg" alt=""></div>
         <div class="textosdestaque"><a href="cronica-lgbt-lgbtfobicos.php">
           <h4>LGBT's LGBTfóbicos</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
+          <p>Uma crônica sobre a hipocrisia de LGBT's LGBTfóbicos</p>
         </a></div>
       </section>
 

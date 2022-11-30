@@ -9,10 +9,10 @@
       <h1>Noticias</h1>
       
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://gncnews.com.br/img/crop?img=15507697d2774628bda920ad618151fd.jpeg&w=800&h=400&fit=crop&fm=jpq&q=90" alt=""></div>
         <div class="textosdestaque"><a href="noticia-comunidade-lgbt-no-mercado-de-trabalho.php">
           <h4>Comunidade LGBT no mercado de trabalho</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
+          <p>Como o Brasil lida com a presença ativa da comunidade LGBT no mercado de trabalho e as inseguranças da comunidade.</p>
         </a></div>
       </section>
 
