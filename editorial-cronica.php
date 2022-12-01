@@ -26,7 +26,7 @@
 
       <section class="populares">
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://a.travel-assets.com/findyours-php/viewfinder/images/res70/49000/49174-The-Village.jpg" alt=""></div>
-        <div class="textosdestaque"><a href="opiniaokali.php">
+        <div class="textosdestaque"><a href="cronicavilagay.php">
           <h4>A Vila Gay</h4>
           <p>Uma crônica sobre um dia feliz e sobre liberdade pra se expressar</p>
         </a></div>
