@@ -9,18 +9,18 @@
       <h1>Noticias</h1>
       
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://gncnews.com.br/img/crop?img=15507697d2774628bda920ad618151fd.jpeg&w=800&h=400&fit=crop&fm=jpq&q=90" alt=""></div>
-        <div class="textosdestaque"><a href="noticia-comunidade-lgbt-no-mercado-de-trabalho.php">
-          <h4>Comunidade LGBT no mercado de trabalho</h4>
-          <p>Como o Brasil lida com a presença ativa da comunidade LGBT no mercado de trabalho e as inseguranças da comunidade.</p>
+      <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://www.promoview.com.br/uploads/2017/05/images/Maio_2017/22.05/entretenimento.jpg" alt=""></div>
+        <div class="textosdestaque"><a href="noticia-rossi.php">
+          <h4>LGBTQIAP+ no entretenimento </h4>
+          <p>Algumas representações LGBTQIAP+ no entretenimento, como também recomendações.</p>
         </a></div>
       </section>
 
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://www.promoview.com.br/uploads/2017/05/images/Maio_2017/22.05/entretenimento.jpg" alt=""></div>
-        <div class="textosdestaque"><a href="noticia-rossi.php">
-          <h4>LGBTQIAP+ no entretenimento </h4>
-          <p>Algumas representações LGBTQIAP+ no entretenimento, como também recomendações.</p>
+      <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
+        <div class="textosdestaque"><a href="">
+          <h4>TITULO</h4>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore dolore itaque laboriosam doloremque, asperiores ut a voluptatum culpa quod sed hic quia odit quae laborum sint cupiditate! Quos, nisi sunt!</p>
         </a></div>
       </section>
 

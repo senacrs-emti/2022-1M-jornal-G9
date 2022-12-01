@@ -13,7 +13,7 @@
 </center>
 
 <div class="row flag-div">
-<img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/1200px-Gay_Pride_Flag.svg.png" class="d-block w-100" alt="...">
+<img class="bandeiracarimg" src="" class="d-block w-100" alt="...">
 </div>
 
 <center>
