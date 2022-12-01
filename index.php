@@ -1,6 +1,7 @@
 <?php
     include_once '.\includes\header.php'
 ?>
+
 <div class="container-fluid">
   <div class="row">
 
@@ -9,10 +10,11 @@
       <h1>DESTAQUES</h1>
       <section id="propagandadestaques"></section>
       <section class="destaques-home">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://blog.uaubox.com.br/wp-content/uploads/2021/06/11112.png" alt=""></div>
-        <div class="textosdestaque"><a href="./opiniao-pessoas-nao-rotuladas.php">
-          <h4>Pessoas não rotuladas na comunidade LGBT</h4>
-          <p>Diante dessa imensidão de generos e sexualidades que é a comunidade LGBT, é relmente importante se rotular?</p>
+      <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://gncnews.com.br/img/crop?img=15507697d2774628bda920ad618151fd.jpeg&w=800&h=400&fit=crop&fm=jpq&q=90" alt=""></div>
+        <div class="textosdestaque"><a href="noticia-comunidade-lgbt-no-mercado-de-trabalho.php">
+          <h4>Comunidade LGBT no mercado de trabalho</h4>
+          <p>Como o Brasil lida com a presença ativa da comunidade LGBT no mercado de trabalho e as inseguranças da comunidade.
+          </p>
         </a></div>
       </section>
 
@@ -39,37 +41,37 @@
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/1200px-Gay_Pride_Flag.svg.png" class="d-block w-100" alt="..."></a>
+                <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/1200px-Gay_Pride_Flag.svg.png" class="d-block w-100" alt="..."></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-11-43-29-am-1589903026.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="..."></a>
+                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-11-43-29-am-1589903026.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="..."></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-12-03-54-pm-1589904242.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="..."></a>
+                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-12-03-54-pm-1589904242.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt="..."></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"> <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-12-18-24-pm-1589905335.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
+                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-12-18-24-pm-1589905335.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-10-51-04-am-1589986287.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
+                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-10-51-04-am-1589986287.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/demisexualflag-1617844798.jpg?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
+                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/demisexualflag-1617844798.jpg?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-1-24-20-pm-1589911329.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
+                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-1-24-20-pm-1589911329.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/aromantic-flag-1592237769.jpg?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
+                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/aromantic-flag-1592237769.jpg?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
                   <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-11-39-51-am-1589989200.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"> <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-12-14-01-pm-1589991291.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
+                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-12-14-01-pm-1589991291.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"> <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_Gay_Pride_Flag.svg/1024px-New_Gay_Pride_Flag.svg.png" class="d-block w-100" alt=""></a>
+                <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_Gay_Pride_Flag.svg/1024px-New_Gay_Pride_Flag.svg.png" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
                   <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aroace_flag.svg/2560px-Aroace_flag.svg.png" class="d-block w-100" alt="">

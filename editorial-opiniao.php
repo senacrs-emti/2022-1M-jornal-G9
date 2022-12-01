@@ -9,16 +9,16 @@
       <h1>Artigos de Opinião</h1>
       
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
+      <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://blog.uaubox.com.br/wp-content/uploads/2021/06/11112.png" alt=""></div>
+        <div class="textosdestaque"><a href="./opiniao-pessoas-nao-rotuladas.php">
+          <h4>Pessoas não rotuladas na comunidade LGBT</h4>
+          <p>Diante dessa imensidão de generos e sexualidades que é a comunidade LGBT, é relmente importante se rotular?</p>
         </a></div>
       </section>
 
       <section class="populares">
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://images.ecycle.com.br/wp-content/uploads/2022/02/08121313/katie-rainbow-90bg59HzXxE-unsplash-scaled.jpg.webp" alt=""></div>
-        <div class="textosdestaque"><a href="artigoop-rossi.php">
+        <div class="textosdestaque"><a href="opiniao-rossi.php">
           <h4>Pronomes Neutros</h4>
           <p>Minha opinião sobre os Pronomes Neutros</p>
         </a></div>
@@ -46,13 +46,12 @@
         <section class="maispopulares">
             <div class="pa">POPULARES</div>
             <ul>
-                <li>Um assunto Gay</li>
-                <li>Um assunto Lésbico</li>
-                <li>Um assunto Bi</li>
-                <li>Um assunto Pan</li>
-                <li>Um assunto Trans</li>
-                <li>Um assunto Ace</li>
-                <li>Um assunto Aro</li>
+                <li><a href="">Um assunto Gay</a></li>
+                <li><a href="">Um assunto Lésbico</a></li>
+                <li><a href="">Um assunto Bi</a></li>
+                <li><a href="">Um assunto Pan</a></li>
+                <li><a href="">Um assunto Trans</a></li>
+                <li><a href="">Um assunto Ace</a></li>
 
             </ul>
 
