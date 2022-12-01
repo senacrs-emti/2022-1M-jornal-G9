@@ -17,10 +17,10 @@
       </section>
 
       <section class="destaques-home">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4></h4>
-          <p></p>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://orientando.org/wp-content/uploads/2021/07/xenogenero1-300x180.png" alt=""></div>
+        <div class="textosdestaque"><a href="opiniaokali.php">
+          <h4>Xenogenêro um assunto polêmico dentro da própria comunidade LGBTQIAP+</h4>
+          <p>Por que há tanto preconceito dentro desse tema, e por que até aqueles que exigem respeito, não demonstram o mesmo?</p>
         </a></div>
       </section>
 
