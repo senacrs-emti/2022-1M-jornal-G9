@@ -17,7 +17,7 @@
                         <center>
                             <img class="imgartigos" src="https://www.promoview.com.br/uploads/2017/05/images/Maio_2017/22.05/entretenimento.jpg" alt="">
                         </center>
-                        <p id="artigop">Nesta notícia, falarei de como a comunidade LGBTQIAP+ é representada na área do entretenimento, ou seja, filmes, séries, literatura, etc. Esta comunidade aos poucos está sendo mais apresentada nas mídias, mas ainda há um longo caminho a ser percorrido. </p>
+                        <p id="artigop">Como comunidade LGBTQIAP+ é representada na área do entretenimento? Ou seja, filmes, séries, literatura, etc. Esta comunidade aos poucos está sendo mais apresentada nas mídias, mas ainda há um longo caminho a ser percorrido. </p>
                         <p id="artigop">Apresento-lhes uma pequena lista de filme, séries e livros com a temática LGBTQIAP+: </p>
                         <p id="artigop"><b><h3>Filmes:</h3></b></p> 
                         <p id="artigop">1. Com amor, Simon:</p>
@@ -31,7 +31,7 @@
                             <img class="imgartigos" src="https://www.aicinema.com.br/wp-content/uploads/2017/09/estamos-todos-aqui_producao-juliana-salazar-e-trilha-martin-eikmeier.jpg" alt="">
                         </center>
                         <p id="artigop">3. Paris is burning:</p>
-                        <p id="artigop">O filme traz entrevistas e cenas de bastidores dos shows e competições. Um registro sobre o mundo performático das drags dos anos 90. Esse é um documentário norte-americano de 1991 que percorre o universo das drags queens da periferia novaiorquina, ele é dirigido por Jennie Livingston. </p>
+                        <p id="artigop">O filme traz entrevistas e cenas de bastidores dos shows e competições – um registro sobre o mundo performático das drags dos anos 90. Esse é um documentário norte-americano de 1991 que percorre o universo das drags queens da periferia novaiorquina, e é dirigido por Jennie Livingston. </p>
                         <center>
                             <img class="imgartigos" src="https://i0.wp.com/valkirias.com.br/wp-content/uploads/2019/07/Paris-is-Burning.png?fit=1080%2C540&ssl=1" alt="">
                         </center>
@@ -42,7 +42,7 @@
                             <img class="imgartigos" src="https://seuladogeek.com.br/wp-content/uploads/2022/03/Heartstopper-serie-netflix.jpg" alt="">
                         </center>
                         <p id="artigop">2. The Owl House:</p>
-                        <p id="artigop">The Owl House é uma série de comédia e que acompanha Luz, uma adolescente humana auto-confiante que acidentalmente se depara com um portal para o Reino Demoníaco. Lá ela faz amizade com uma bruxa rebelde, Eda, e um guerreiro adoravelmente pequeno, King. Esta série foi ao ar em 2020, com a direção de Ricky Cometa, The Owl também aborda o relacionamento de Luz, a protagonista, e Amity.  </p>
+                        <p id="artigop">The Owl House é uma série de comédia e que acompanha Luz, uma adolescente humana auto-confiante que acidentalmente se depara com um portal para o Reino Demoníaco. Lá ela faz amizade com uma bruxa rebelde, Eda, e um guerreiro adoravelmente pequeno, King. The Owl também aborda o relacionamento de Luz, a protagonista, e Amity. Esta série foi ao ar em 2020, com a direção de Ricky Cometa. </p>
                         <center>
                             <img class="imgartigos" src="https://static.wixstatic.com/media/737e63_c2749888079e4030aaf73765c8ccf6a2~mv2.jpg/v1/fill/w_640,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/737e63_c2749888079e4030aaf73765c8ccf6a2~mv2.jpg" alt="">
                         </center>
@@ -68,7 +68,7 @@
                         <center>
                             <img class="imgartigos" src="https://m.media-amazon.com/images/I/71SYepTUsDL.jpg" alt="">
                         </center>
-                        <p id="artigop">Isso apenas nos mostra que cada vez mais a comunidade LGBT está sendo representada nas áreas de entretenimento, mas isso está longe de estar acabado. Ainda temos muito caminho pela nossa frente, muitas sexualidades e gêneros ainda “ignorados”, a nossa luta ainda não acabou.</p>
+                        <p id="artigop">Isso apenas nos mostra que cada vez mais a comunidade LGBT está sendo representada nas áreas de entretenimento, mas isso está longe de estar acabado. Ainda temos muito caminho pela nossa frente, muitas sexualidades e gêneros ainda “ignorados”.</p>
                     </section>
                     <section id="artigorelacionado">
                         <div id="reacionadosartigo">
