@@ -25,10 +25,10 @@
       </section>
 
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore dolore itaque laboriosam doloremque, asperiores ut a voluptatum culpa quod sed hic quia odit quae laborum sint cupiditate! Quos, nisi sunt!</p>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://p2.trrsf.com/image/fget/cf/648/0/images.terra.com/2021/06/25/dest-lgbt-games.png" alt=""></div>
+        <div class="textosdestaque"><a href="noticiakali.php">
+          <h4>Representatividade LGBTQIAP+ no mundo dos games</h4>
+          <p>Como está a representatividade LGBT dentro da industria dos jogos?</p>
         </a></div>
       </section>
 
