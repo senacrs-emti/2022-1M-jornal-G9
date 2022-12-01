@@ -75,21 +75,8 @@
                   <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aroace_flag.svg/2560px-Aroace_flag.svg.png" class="d-block w-100" alt="">
                 </div>
                 <div class="carousel-item">
-                <a href="paginabandeiras.php"> <img class="bandeiracarimg" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd5829ed-efc1-4ca8-813f-8e31e4df26af/defmech-2828445c-1a48-4527-956d-02c7b0638785.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkNTgyOWVkLWVmYzEtNGNhOC04MTNmLThlMzFlNGRmMjZhZlwvZGVmbWVjaC0yODI4NDQ1Yy0xYTQ4LTQ1MjctOTU2ZC0wMmM3YjA2Mzg3ODUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZJr3NzElowEG7dPEukZAswLcMKj0NNmeZQqbYbwhh8E" class="d-block w-100" alt="">
+                  <img class="bandeiracarimg" src="https://s2.glbimg.com/Ehe3iUeecIgTx6QD_R8xSUczy34=/e.glbimg.com/og/ed/f/original/2021/06/10/bandeira_queergender.png" class="d-block w-100" alt="">
                 </div>
-                <div class="carousel-item">
-                  <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Enbian_Pride_flag.svg/1200px-Enbian_Pride_flag.svg.png" class="d-block w-100" alt="">
-                </div>
-                <div class="carousel-item">
-                <a href="paginabandeiras.php"> <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Grey_asexuality_flag.svg/1200px-Grey_asexuality_flag.svg.png" class="d-block w-100" alt="">
-                </div>
-                <div class="carousel-item">
-                <a href="paginabandeiras.php"><img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bigender_flag.svg/2560px-Bigender_flag.svg.png" class="d-block w-100" alt="">
-                </div>
-                <div class="carousel-item">
-                <a href="paginabandeiras.php"> <img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Polyamory_Pride_Flag.svg/2560px-Polyamory_Pride_Flag.svg.png" class="d-block w-100" alt="">
-                </div>
-              </div>
               <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
