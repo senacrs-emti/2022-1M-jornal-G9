@@ -9,28 +9,19 @@
 <main class="col-lg-8">
 
 <center>
-    <h1 class="titulo-flag">PLACEHOLDER</h1>
+    <h1 class="titulo-flag">LGBTQIAP+</h1>
 </center>
 
 <div class="row flag-div">
+<img class="bandeiracarimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/1200px-Gay_Pride_Flag.svg.png" class="d-block w-100" alt="...">
 </div>
 
 <center>
     <p class="row" style="width: 90%; text-align: justify;">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non eros cursus, pharetra leo et, dictum nisi.
-    Quisque magna elit, pellentesque vitae semper nec, imperdiet eget libero.
-    Nam lacus lorem, blandit in imperdiet vitae, venenatis id massa.
-    Sed ut dictum tellus. Curabitur consectetur bibendum accumsan.
-    Sed dui tortor, ornare ac lobortis eget, volutpat quis velit.
-    Maecenas dolor magna, condimentum at nunc sit amet, pulvinar accumsan nisl.
-    Quisque facilisis erat vel euismod blandit. Donec mollis enim eu fringilla tincidunt.
-    Pellentesque euismod justo in mauris venenatis, sit amet accumsan orci consequat.
-    Morbi et libero mattis, ultrices justo at, consequat neque.
-    Nunc id suscipit ex.
-    Mauris efficitur dolor mi, sit amet sollicitudin justo scelerisque in.
-    Nullam efficitur vitae magna ac ultricies. Duis facilisis luctus ex.
-    Quisque placerat viverra eros, eget condimentum ex maximus eget.
-    Sed ac est sed lectus ultricies venenatis. Suspendisse at semper tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula turpis, vestibulum ut porta ut, euismod eu enim. Aliquam ac felis at velit semper volutpat. Vestibulum eget sagittis justo. Sed mollis libero eu dolor scelerisque, at dignissim libero eleifend. Phasellus urna lacus, suscipit bibendum porta tempor, accumsan vitae sapien.
+    A Bandeira Orgulho Gay, é um símbolo da Comunidade Gay e do Movimento LGBT. Criada em 1979 pelo ativista gay Gilbert Baker, a pedido do político homossexual Harvey Milk para representar a Comunidade Gay, acabou por se tornar um dos principais símbolos do movimento LGBT.
+    </p>
+    <p class="row" style="width: 90%; text-align: justify;"> 
+    Apesar de ter sido originalmente concebida com oito cores (Conhecidas popularmente como Retro 8), com cada cor representando um significado especifico. A versão que acabou por se tornar mais conhecida tem seis barras horizontais, cada uma com uma cor diferente, de cima para baixo: Vermelho, laranja, amarelo, verde, azul e violeta.
     </p>
 </center>
 

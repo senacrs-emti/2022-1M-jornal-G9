@@ -9,7 +9,7 @@
       <h1>Crônica</h1>
       
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://imgsapp.em.com.br/app/noticia_127983242361/2022/09/15/1391357/dom-lancellotti-em-manifestacao-em-favor-de-bolsonaro_2_91481.jpg" alt=""></div>
         <div class="textosdestaque"><a href="cronica-lgbt-lgbtfobicos.php">
           <h4>LGBT's LGBTfóbicos</h4>
           <p>Uma crônica sobre a hipocrisia de LGBT's LGBTfóbicos</p>
@@ -17,10 +17,10 @@
       </section>
 
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod reprehenderit iure voluptatum fugiat maxime. Maiores tempora, placeat enim sed vel dolorem, vitae distinctio doloribus commodi quisquam magni, voluptatum voluptates inventore?</p>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://i.pinimg.com/736x/f8/f5/3d/f8f53d183d5c9fd0ba52b1442b7c4e37.jpg" alt=""></div>
+        <div class="textosdestaque"><a href="cronica-rossi.php">
+          <h4>Sair do armário, uma montanha russa de emoções</h4>
+          <p>Uma crônica sobre a minha história saindo do armário</p>
         </a></div>
       </section>
 

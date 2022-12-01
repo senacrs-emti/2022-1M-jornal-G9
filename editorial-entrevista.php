@@ -9,10 +9,10 @@
       <h1>Entrevistas</h1>
       
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, harum, accusamus molestias voluptates officia aliquid quia saepe dolor eaque esse asperiores architecto et amet obcaecati repellat quaerat veritatis. Iste, qui?</p>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://www.conectas.org/wp-content/uploads/2021/06/1-Congresso_-30-Foto_Julio_Cesar_Silva_Divulgacao_KOINONIA_Presenca_Ecumenica-scaled.jpg" alt=""></div>
+        <div class="textosdestaque"><a href="entrevista-religiosidade.php">
+          <h4>Religiosidade e homofobia</h4>
+          <p>Uma entrevista com Gabriel da Costa Santos, que falará sobre sua religião e a homofobia que persegue a comunidade LGBT.</p>
         </a></div>
       </section>
 

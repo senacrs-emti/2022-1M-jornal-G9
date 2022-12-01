@@ -17,10 +17,10 @@
       </section>
 
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod reprehenderit iure voluptatum fugiat maxime. Maiores tempora, placeat enim sed vel dolorem, vitae distinctio doloribus commodi quisquam magni, voluptatum voluptates inventore?</p>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://images.ecycle.com.br/wp-content/uploads/2022/02/08121313/katie-rainbow-90bg59HzXxE-unsplash-scaled.jpg.webp" alt=""></div>
+        <div class="textosdestaque"><a href="artigoop-rossi.php">
+          <h4>Pronomes Neutros</h4>
+          <p>Minha opinião sobre os Pronomes Neutros</p>
         </a></div>
       </section>
 
