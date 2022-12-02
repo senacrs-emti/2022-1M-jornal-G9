@@ -24,22 +24,26 @@
                     <section id="artigorelacionado">
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
+
+                            <a href="cronica-lgbt-lgbtfobicos.php">
                             <div id="relacionadoquadradoc1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                                <h5 class="h5rel">LGBT's LGBTfóbicos</h5>
 
                             </div>
+                            </a>
+
+                            <a href="cronicaa">
                             <div id="relacionadoquadradoc2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                                <h5 class="h5rel">Por Trás da Cortina Preto e Branco</h5>
 
                             </div>
+                            </a>
+
+                            <a href="cronica-rossi">
                             <div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-
+                                <h5 class="h5rel">Sair do armário, uma montanha russa de emoções</h5>
                             </div>
-                            <div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-
-                            </div>
+                            </a>
 
                         </div>
 
