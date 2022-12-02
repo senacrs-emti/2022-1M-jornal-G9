@@ -8,7 +8,7 @@
                     <section id="sectionartigos">
 
                         <h1 id="h1tituloartigo">A Falta de Representatividade Arromântica </h1>
-                        <h5 id="h5subtitulo">Sobre a exclusão arromantica da Comunidade</h3>
+                        <h5 id="h5subtitulo">Sobre a exclusão arromântica da Comunidade</h3>
                         <h6 id="NomeData">Por Adriely Rossetti, 15/11/2022</h6>
                         <center>
                             <img class="imgcompartilhar" src="img/compartilhar.png" alt="">

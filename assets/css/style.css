@@ -560,3 +560,26 @@ footer {
     margin-top: 10px;
     font-weight: 800;
 }
+.legend{
+    font-size: 13px;
+    color: gray;
+}
+.plink{
+    color: #000000;
+    
+}
+.ing{
+    margin-top: 60px;
+    zoom:60%;
+}
+.ingg{
+    margin-top: 60px;
+}
+.font{
+    margin-bottom: 10px;
+    color: gray;
+}
+.font1{
+    margin-top: 50px;
+    color: gray;
+}

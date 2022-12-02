@@ -17,8 +17,8 @@
       </section>
 
       <section class="populares">
-      <div class="imgdestaquesdiv"><img class="imgdestaque" src="img/futgay.jfif" alt=""></div>
-        <div class="textosdestaque"><a href="">
+      <div class="imgdestaquesdiv"><img class="imgdestaque" src="https://observatoriog.bol.uol.com.br/wordpress/wp-content/uploads/2018/03/lgbtfobia-futebol.jpg" alt=""></div>
+        <div class="textosdestaque"><a href="noticiafut.php">
           <h4>LGBT no Futebol</h4>
           <p>Como é para pessoas do futebol que se assumem.</p>
         </a></div>

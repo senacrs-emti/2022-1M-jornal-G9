@@ -28,7 +28,7 @@
         <div class="imgdestaquesdiv"><img class="imgdestaque" src="img/icon.jfif" alt=""></div>
         <div class="textosdestaque"><a href="artigodeopiniaoaro.php">
           <h4>A Falta de Representatividade Arromântica</h4>
-          <p>Sobre a exclusão arromantica da Comunidade</p>
+          <p>Sobre a exclusão arromântica da Comunidade</p>
         </a></div>
       </section>
 
