@@ -26,22 +26,27 @@
                     <section id="artigorelacionado">
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
+                            
+                            <a href="noticiafut.php">
                             <div id="relacionadoquadradoc1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                                <h5 class="h5rel">Comunidade LGBT no futebol</h5>
 
                             </div>
+                            </a>
+
+                            <a href="noticia-comunidade-lgbt-no-mercado-de-trabalho.php">
                             <div id="relacionadoquadradoc2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                                <h5 class="h5rel">Comunidade LGBT no mercado de trabalho</h5>
 
                             </div>
+                            </a>
+                            
+                            <a href="noticia-rossi.php">
                             <div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                                <h5 class="h5rel">LGBTQIAP+ no entreterimento</h5>
 
                             </div>
-                            <div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-
-                            </div>
+                            </a>
 
                         </div>
 

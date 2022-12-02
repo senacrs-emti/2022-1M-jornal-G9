@@ -26,52 +26,31 @@
                     <section id="artigorelacionado">
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
-                            <div id="relacionadoquadradoc1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-
-                            </div>
-                            <div id="relacionadoquadradoc2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-
-                            </div>
-                            <div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-
-                            </div>
-                            <div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-
-                            </div>
-
+                            
+                            <a href="opiniao-pessoas-nao-rotuladas.php">
+                                <div id="relacionadoquadradoc1">
+                                    <h5 class="h5rel">Artigo de opinião: Pessoas não Rotuladas</h5>
+                                </div>
+                            </a>
+                            
+                            <a href="opiniao-rossi.php">
+                                <div id="relacionadoquadradoc1">
+                                    <h5 class="h5rel">Artigo de opinião: Pronome Neutro</h5>
+                                </div>
+                            </a>
+                            
+                            <a href="artigodeopiniaoaro.php">
+                                <div id="relacionadoquadradoc1">
+                                    <h5 class="h5rel">Artigo de opinião: Falta de representatividade Arromantica</h5>
+                                </div>
+                            </a>
+                    
                         </div>
 
                         <div id="propagandaartigo">
                             <img class="propartigo" src="" alt="">
                         </div>
                     </section>
-
-                    <section id="sobre">
-                        <span id="sp1">
-                            <a href="">
-                                <div id="vid1"><img id="vid" src="" alt=""></div>
-                            </a>
-                            <h5 class="h5sobre">NOME DO VIDEO</h5>
-                        </span>
-                        <span id="sp2">
-                            <h2 class="h2rec">RECOMENDAÇÕES</h2>
-                            <a href="">
-                                <div id="vid2"><img id="vid" src="" alt=""></div>
-                            </a>
-                            <h5 class="h5sobre">NOME DO VIDEO</h5>
-                        </span>
-                        <span id="sp3">
-                            <a href="">
-                                <div id="vid3"><img id="vid" src="" alt=""></div>
-                            </a>
-                            <h5 class="h5sobre">NOME DO VIDEO</h5>
-                        </span>
-                    </section>
-
 
             </main>
     </div>
