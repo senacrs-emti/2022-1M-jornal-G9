@@ -17,10 +17,10 @@
       </section>
 
       <section class="populares">
-      <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
+      <div class="imgdestaquesdiv"><img class="imgdestaque" src="img/futgay.jfif" alt=""></div>
         <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore dolore itaque laboriosam doloremque, asperiores ut a voluptatum culpa quod sed hic quia odit quae laborum sint cupiditate! Quos, nisi sunt!</p>
+          <h4>LGBT no Futebol</h4>
+          <p>Como é para pessoas do futebol que se assumem.</p>
         </a></div>
       </section>
 
