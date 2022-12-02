@@ -25,10 +25,10 @@
       </section>
 
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore dolore itaque laboriosam doloremque, asperiores ut a voluptatum culpa quod sed hic quia odit quae laborum sint cupiditate! Quos, nisi sunt!</p>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="img/icon.jfif" alt=""></div>
+        <div class="textosdestaque"><a href="artigodeopiniaoaro.php">
+          <h4>A Falta de Representatividade Arromântica</h4>
+          <p>Sobre a exclusão arromantica da Comunidade</p>
         </a></div>
       </section>
 

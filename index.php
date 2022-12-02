@@ -27,10 +27,10 @@
       </section>
 
       <section class="destaques-home">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4></h4>
-          <p></p>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="img/hetero.jpg" alt=""></div>
+        <div class="textosdestaque"><a href="cronicaaa.php">
+          <h4>Por trás da cortina Preto e Branco </h4>
+          <p>Não poder ser quem sou (crônica)</p>
         </a></div>
       </section>
 
