@@ -34,16 +34,19 @@
                             </a>
                             
                             <a href="opiniao-rossi.php">
-                                <div id="relacionadoquadradoc1">
+                                <div id="relacionadoquadradoc2">
                                     <h5 class="h5rel">Artigo de opinião: Pronome Neutro</h5>
                                 </div>
                             </a>
                             
                             <a href="artigodeopiniaoaro.php">
-                                <div id="relacionadoquadradoc1">
+                                <div id="relacionadoquadradob1">
                                     <h5 class="h5rel">Artigo de opinião: Falta de representatividade Arromantica</h5>
                                 </div>
                             </a>
+                            <a href="entrevista-casamento.php"><div id="relacionadoquadradob2">
+                                <h5 class="h5rel">Relacionamentos LGBT no Brasil.</h5>
+                            </div></a>
                     
                         </div>
 
@@ -51,7 +54,7 @@
                             <img class="propartigo" src="" alt="">
                         </div>
                     </section>
-
+                    <div class="espaco"></div>
             </main>
     </div>
 </div>
