@@ -63,10 +63,10 @@
                             <h5 class="h5sobre"></h5>
                         </span>
                         <span id="sp3">
-                            <a href="">
-                                <div id="vid3"><img id="vid" src="" alt=""></div>
+                            <a href="https://www.youtube.com/watch?v=Ug37dKTI7zM">
+                                <div id="vid3"><img id="vid" src="img/vilagay.png" alt=""></div>
                             </a>
-                            <h5 class="h5sobre">COMO SURGIU "SAIR DO ARMÁRIO" - Lorelay Fox</h5>
+                            <h5 class="h5sobre">COMO É UM BAIRRO LGBT NOS ESTADOS UNIDOS</h5>
                         </span>
                     </section>
 

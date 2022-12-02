@@ -42,22 +42,22 @@
                     <section id="artigorelacionado">
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
-                            <div id="relacionadoquadradoc1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            <a href="cronicaaa.php"><div id="relacionadoquadradoc1">
+                                <h5 class="h5rel">Por trás da cortina Preto e Branco.</h5>
 
-                            </div>
-                            <div id="relacionadoquadradoc2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            </div></a>
+                            <a href="noticiafut.php"><div id="relacionadoquadradoc2">
+                                <h5 class="h5rel">Comunidade LGBT no Futebol.</h5>
 
-                            </div>
-                            <div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            </div></a>
+                            <a href="cronica-rossi.php"><div id="relacionadoquadradob1">
+                                <h5 class="h5rel">Sair do armário, uma montanha russa de emoções.</h5>
 
-                            </div>
-                            <div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            </div></a>
+                            <a href="noticiakali.php"><div id="relacionadoquadradob2">
+                                <h5 class="h5rel">Representatividade LGBTQIAP+ no mundo dos games.</h5>
 
-                            </div>
+                            </div></a>
 
                         </div>
 

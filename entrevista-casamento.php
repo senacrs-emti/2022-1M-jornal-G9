@@ -7,7 +7,7 @@
             <main class="col-lg-12">
                     <section id="sectionartigos">
 
-                        <h1 id="h1tituloartigo">Casamento</h1>
+                        <h1 id="h1tituloartigo">Relacionamentos LGBT no Brasil</h1>
                         <h5 id="h5subtitulo">Uma entrevista com Marcelo Mertins, que falará sobre seu relacionamento.</h3>
                         <h6 id="NomeData">Por Giovana Rossi em 02 de dezembro 2022, às 10:20</h6>
                         <center>
@@ -17,7 +17,7 @@
                         <center>
                             <img class="imgartigos" src="https://www.desafiorh.com.br/blog/wp-content/uploads/2020/06/empresa-gay-friendly.jpg" alt="">
                         </center>
-                        <p id="artigop">As conquistas de direito da população LGBTQIA+ vieram forte nos anos 2000, fato que não agradou muito religiosos fanáticos, que insistem, ainda nos dias de hoje, em não reconhecer esses indivíduos, afirmando que eles “são uma anomalia” e falando absurdos como “ideologia de gênero” e “ditadura gay”</p>
+                        <p id="artigop">As conquistas de direito da população LGBTQIA+ vieram forte nos anos 2000, fato que não agradou muito religiosos fanáticos, que insistem, ainda nos dias de hoje, em não reconhecer esses indivíduos, afirmando que eles “são uma anomalia” e falando absurdos como “ideologia de gênero” e “ditadura gay”.</p>
                         <p id="artigop">Nesta entrevista teremos a participação do professor de artes, Marcelo Mertins,que faz parte da comunidade LGBT e nos falará sobre seu relacionamento. </p>
                         <p id="artigop"><strong>Entrevistador</strong>: Obrigado pela participação, o nosso entrevistado de hoje será o Marcelo Mertins, professor de Artes da escola do SENAC Distrito Criativo, que concordou em participar desta entrevista sobre seu relacionamento.  </p>
                         <p id="artigop"><strong>Entrevistador</strong>: Como você e seu cônjuge se conheceram? </p>
@@ -36,23 +36,19 @@
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
                             <div id="relacionadoquadradoc1">
-                            <a href="entrevista-religiosidade.php"><div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Religiosidade e Homofobia</h5>
+                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
 
                             </div>
                             <div id="relacionadoquadradoc2">
-                            <a href="noticia-comunidade-lgbt-no-mercado-de-trabalho.php"><div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Comunidade LGBT no mercado de trabalho</h5>
+                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
 
                             </div>
                             <div id="relacionadoquadradob1">
-                            <a href="opiniao-rossi.php"><div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Pronomes Neutros</h5>
+                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
 
                             </div>
                             <div id="relacionadoquadradob2">
-                            <a href="opiniaokali.php"><div id="relacionadoquadradoc1">
-                                <h5 class="h5rel">Xenogenero</h5>
+                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
 
                             </div>
 

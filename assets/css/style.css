@@ -211,12 +211,11 @@ header a{
     .maispopulares{
         width: 100%;
         height: 52.5%;
-        bottom: -20vh;
         background-color: #62B4E6;
         color: #fff;
         text-indent: 8px;
-        line-height: 38px;
-        font-size: 17px;
+        line-height: 48px;
+        font-size: 18px;
         display: block;
     }
     .pa{

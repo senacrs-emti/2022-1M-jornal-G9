@@ -27,28 +27,22 @@
                         <p id="artigop">Esse ano, eu finalmente me senti mais livre, sem o peso gigantesco nas minhas costas, eu decidi que sairia para pessoas apenas se elas me perguntassem, é muito mais simples do que pegar uma pessoa de cada vez para contar. Não é estritamente necessário sair do armário para todos que conheço, eles apenas têm que saber que gosto de pessoas, isso já é o suficiente.  </p>
                         <p id="artigop">Porém, cada caso é diferente, as suas experiencias não devem ser obrigatoriamente ruins, a maioria das minhas foram boas, é diferente para cada situação, cada pessoa tem uma história diferente para contar. Mas, essa é a minha. </p>
                     </section>
+                    </section>
                     <section id="artigorelacionado">
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
-                            <div id="relacionadoquadradoc1">
-                            <a href="opiniao-rossi.php"><div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Pronomes Neutros</h5>
-
-                            </div>
-                            <div id="relacionadoquadradoc2">
-                            <a href="entrevista-casamento.php"><div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Casamento</h5>
-                            </div>
-                            <div id="relacionadoquadradob1">
-                            <a href="opiniao-pessoas-nao-rotuladas.php"><div id="relacionadoquadradoc2">
-                                <h5 class="h5rel">Pessoas não rotuladas na comunidade LGBT</h5>
-
-                            </div>
-                            <div id="relacionadoquadradob2">
-                            <a href="cronicavilagay.php"><div id="relacionadoquadradob1">
-                                <h5 class="h5rel">A Vila Gay</h5>
-
-                            </div>
+                            <a href="opiniao-rossi.php"><div id="relacionadoquadradoc1">
+                                <h5 class="h5rel">Pronomes Neutros.</h5>
+                            </div></a>
+                            <a href="entrevista-casamento.php"><div id="relacionadoquadradoc2">
+                                <h5 class="h5rel">Relacionamentos LGBT no Brasil.</h5>
+                            </div></a>
+                            <a href="opiniao-pessoas-nao-rotuladas.php"><div id="relacionadoquadradob1">
+                                <h5 class="h5rel">Pessoas não rotuladas na comunidade LGBT.</h5>
+                            </div></a>
+                            <a href="cronicavilagay.php"><div id="relacionadoquadradob2">
+                                <h5 class="h5rel">A Vila Gay.</h5>
+                            </div></a>
 
                         </div>
 

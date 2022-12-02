@@ -25,11 +25,12 @@
                     <section id="artigorelacionado">
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
+                            
                             <a href="opiniaokali.php"><div id="relacionadoquadradoc1">
                                 <h5 class="h5rel">Xenogenero</h5>
-
                             </div>
                             </a>
+
                             <a href="opiniao-pessoas-nao-rotuladas.php"><div id="relacionadoquadradoc2">
                                 <h5 class="h5rel">Pessoas não rotuladas na comunidade LGBT</h5>
 
