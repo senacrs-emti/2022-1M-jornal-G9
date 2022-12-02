@@ -47,10 +47,10 @@
             <div class="pa">POPULARES</div>
             <ul>
                 <li><a href="">Um assunto Gay</a></li>
-                <li><a href="">Um assunto Lésbico</a></li>
-                <li><a href="">Um assunto Bi</a></li>
-                <li><a href="">Um assunto Pan</a></li>
-                <li><a href="">Um assunto Trans</a></li>
+                <li><a href="opiniao-rossi.php">Pronomes Neutos.</a></li>
+                <li><a href="noticia-comunidade-lgbt-no-mercado-de-trabalho.php">Comunidade LGBT no mercado de trabalho.</a></li>
+                <li><a href="cronicavilagay.php">A vila gay.</a></li>
+                <li><a href="entrevista-religiosidade.php">Religiosidade e Homofobia.</a></li>
                 <li><a href="">Um assunto Ace</a></li>
 
             </ul>
