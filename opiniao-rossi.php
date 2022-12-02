@@ -27,23 +27,24 @@
                     </section>
                     <section id="artigorelacionado">
                         <div id="reacionadosartigo">
-                            <center><h2 id="h2relac">RELACIONADOS</h2></center>
-                            <div id="relacionadoquadradoc1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                        <center><h2 id="h2relac">RELACIONADOS</h2></center>
+                            <a href="opiniaokali.php"><div id="relacionadoquadradoc1">
+                                <h5 class="h5rel">Xenogenero</h5>
 
                             </div>
-                            <div id="relacionadoquadradoc2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            </a>
+                            <a href="opiniao-pessoas-nao-rotuladas.php"><div id="relacionadoquadradoc2">
+                                <h5 class="h5rel">Pessoas não rotuladas na comunidade LGBT</h5>
 
-                            </div>
-                            <div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            </div></a>
+                            <a href="cronicaaa.php"><div id="relacionadoquadradob1">
+                                <h5 class="h5rel">Por trás da cortina Preto e Branco</h5>
 
-                            </div>
-                            <div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            </div></a>
+                            <a href="cronica-lgbt-lgbtfobicos.php"><div id="relacionadoquadradob2">
+                                <h5 class="h5rel">LGBT's LGBTfóbicos</h5>
 
-                            </div>
+                            </div></a>
 
                         </div>
 

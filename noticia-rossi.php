@@ -74,19 +74,23 @@
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
                             <div id="relacionadoquadradoc1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            <a href="noticiakali.php"><div id="relacionadoquadradoc1">
+                                <h5 class="h5rel">Representatividade LGBTQIAP+ dentro do mundo dos games</h5>
 
                             </div>
                             <div id="relacionadoquadradoc2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            <a href="artigodeopiniaoaro.php"><div id="relacionadoquadradoc1">
+                                <h5 class="h5rel">A Falta de Representatividade Arromântica </h5>
 
                             </div>
                             <div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                                <a href="noticiafut.php"><div id="relacionadoquadradoc1">
+                                <h5 class="h5rel">LGBT no Futebol</h5>
 
                             </div>
                             <div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                                <a href="entrevista-religiosidade.php"><div id="relacionadoquadradoc1">
+                                <h5 class="h5rel">Religiosidade e Homofobia</h5>
 
                             </div>
 

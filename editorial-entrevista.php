@@ -17,18 +17,10 @@
       </section>
 
       <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
+        <div class="imgdestaquesdiv"><img class="imgdestaque" src="entrevista-casamento.php" alt=""></div>
         <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod reprehenderit iure voluptatum fugiat maxime. Maiores tempora, placeat enim sed vel dolorem, vitae distinctio doloribus commodi quisquam magni, voluptatum voluptates inventore?</p>
-        </a></div>
-      </section>
-
-      <section class="populares">
-        <div class="imgdestaquesdiv"><img class="imgdestaque" src="" alt=""></div>
-        <div class="textosdestaque"><a href="">
-          <h4>TITULO</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore dolore itaque laboriosam doloremque, asperiores ut a voluptatum culpa quod sed hic quia odit quae laborum sint cupiditate! Quos, nisi sunt!</p>
+          <h4>CASAMENTO</h4>
+          <p>Uma entrevista com Marcelo Mertins, que falará sobre seu relacionamento com seu companheiro.</p>
         </a></div>
       </section>
 

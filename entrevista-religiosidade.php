@@ -9,7 +9,7 @@
 
                         <h1 id="h1tituloartigo">Religiosidade e a homofobia </h1>
                         <h5 id="h5subtitulo">Uma entrevista com Gabriel da Costa Santos, que falará sobre sua religião e a homofobia que persegue a comunidade LGBT.</h3>
-                        <h6 id="NomeData">Por Giovana Rossi em 28 de novembro 2021, as 15:32</h6>
+                        <h6 id="NomeData">Por Giovana Rossi em 28 de novembro 2022, as 15:32</h6>
                         <center>
                             <img class="imgcompartilhar" src="img/compartilhar.png" alt="">
                         </center>

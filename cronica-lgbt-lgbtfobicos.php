@@ -28,7 +28,8 @@
                             <a href="opiniaokali.php"><div id="relacionadoquadradoc1">
                                 <h5 class="h5rel">Xenogenero</h5>
 
-                            </div></a>
+                            </div>
+                            </a>
                             <a href="opiniao-pessoas-nao-rotuladas.php"><div id="relacionadoquadradoc2">
                                 <h5 class="h5rel">Pessoas não rotuladas na comunidade LGBT</h5>
 

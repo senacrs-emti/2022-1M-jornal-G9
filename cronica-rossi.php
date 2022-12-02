@@ -31,19 +31,22 @@
                         <div id="reacionadosartigo">
                             <center><h2 id="h2relac">RELACIONADOS</h2></center>
                             <div id="relacionadoquadradoc1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            <a href="opiniao-rossi.php"><div id="relacionadoquadradob1">
+                                <h5 class="h5rel">Pronomes Neutros</h5>
 
                             </div>
                             <div id="relacionadoquadradoc2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-
+                            <a href="entrevista-casamento.php"><div id="relacionadoquadradob1">
+                                <h5 class="h5rel">Casamento</h5>
                             </div>
                             <div id="relacionadoquadradob1">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            <a href="opiniao-pessoas-nao-rotuladas.php"><div id="relacionadoquadradoc2">
+                                <h5 class="h5rel">Pessoas não rotuladas na comunidade LGBT</h5>
 
                             </div>
                             <div id="relacionadoquadradob2">
-                                <h5 class="h5rel">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
+                            <a href="cronicavilagay.php"><div id="relacionadoquadradob1">
+                                <h5 class="h5rel">A Vila Gay</h5>
 
                             </div>
 
