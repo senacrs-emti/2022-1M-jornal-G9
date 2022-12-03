@@ -53,8 +53,8 @@
                 <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-19-at-12-18-24-pm-1589905335.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
                 <div class="carousel-item">
-                <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-05-20-at-10-51-04-am-1589986287.png?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
-                </div>
+                <img class="bandeiracarimg" src="https://static.vecteezy.com/ti/vetor-gratis/p3/2753352-papel-de-parede-de-fundo-de-bandeira-lesbica-vetor.jpg" class="d-block w-100" alt=""></a>
+                </div>br
                 <div class="carousel-item">
                 <img class="bandeiracarimg" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/demisexualflag-1617844798.jpg?crop=1xw:1xh;center,top&resize=480:*" class="d-block w-100" alt=""></a>
                 </div>
